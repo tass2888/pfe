@@ -3,8 +3,8 @@
 Généré le 25/11/2026. Arborescence conforme au plan final validé.
 
 ## Contenu
-- 49 dossiers (front matter, 9 chapitres, annexes, dossiers bibliographiques, brouillons, données, figures).
-- 121 fichiers au total (état courant) : 9 PDF valides (en-tête %PDF vérifié), pages HTML officielles, abstracts PubMed, JSON ClinicalTrials, notes de cadrage, modèles d'annexes et 22 images open access.
+- 50 dossiers (front matter, 9 chapitres, annexes, dossiers bibliographiques, brouillons, données, figures, présentation).
+- 124 fichiers au total (état courant) : 9 PDF valides (en-tête %PDF vérifié), pages HTML officielles, abstracts PubMed, JSON ClinicalTrials, notes de cadrage, modèles d'annexes, 22 images open access et la présentation PPTX de soutenance.
 - Script de téléchargement conservé dans `06_Brouillons_redaction\_setup_pfe_neurodynamique.ps1` pour reproductibilité.
 
 ## Téléchargements réussis (principaux)
@@ -40,6 +40,12 @@ Aucun livre intégral sous droit d'auteur n'a été copié. Les ouvrages payants
 - Attributions obligatoires : `00_INDEX\Images_open_access_attributions.csv` et `Rapport_images_open_access.md`.
 - 15 figures restent à créer, notamment 3.1/3.2 (glisseur/tensionneur) et 7.2–7.4 (résultats à partir de données réelles). La génération IA a échoué avec `Invalid credential` (16 demandes rejetées) ; les prompts sont conservés.
 - Aucune figure copiée d'ouvrages sous droit d'auteur ni de supports de cours propriétaires.
+
+## Ajout du 25/11/2026 — présentation de soutenance
+- Dossier `09_Presentation\` créé avec `Presentation_PFE_Neurodynamique.pptx` (15 diapositives, 16:9, 2,7 Mo), `_build_presentation.py` et `README.md`.
+- Structure inspirée du démo ZIP `stitch_neurodynamics_in_cervicalgia_pfe.zip` fourni par l'utilisateur, mais contenu réécrit pour le protocole validé du PFE (Butler/Shacklock, ECR deux groupes, 10 séances, T0/T1/T2).
+- Aucune image de la démo n'a été réutilisée ; seules les images open access déjà présentes dans `08_Figures_Tables\` sont intégrées, avec crédits dans les notes orateur.
+- Résultats volontairement laissés sous forme de tableau/zone graphique à compléter avec les données réelles anonymisées.
 
 ## Actions suggérées
 1. Remplacer les `00_Notes_*.md` par les chapitres rédigés.
