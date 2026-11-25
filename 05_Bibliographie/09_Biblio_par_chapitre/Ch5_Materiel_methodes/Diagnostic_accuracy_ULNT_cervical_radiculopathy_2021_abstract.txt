@@ -1,0 +1,55 @@
+1. Musculoskelet Sci Pract. 2021 Oct;55:102427. doi: 10.1016/j.msksp.2021.102427.
+ Epub 2021 Jul 8.
+
+Diagnostic accuracy of upper limb neurodynamic tests in the diagnosis of 
+cervical radiculopathy.
+
+Grondin F(1), Cook C(2), Hall T(3), Maillard O(4), Perdrix Y(5), Freppel S(6).
+
+Author information:
+(1)Neurosurgey Department, Centre Hospitalier Universitaire de La Réunion, 
+Reunion, France; School of Physiotherapy (IFMK), Centre Hospitalier 
+Universitaire de La Réunion, Reunion, France. Electronic address: 
+grondin.fran@yahoo.fr.
+(2)Duke Department of Orthopaedics, Duke Clinical Research Institute, Duke 
+University, 311 Trent Drive, Durham, NC, USA. Electronic address: 
+chad.cook@duke.edu.
+(3)School of Physiotherapy and Exercise Science, Curtin University, Kent Street, 
+Bentley, Perth, Australia. Electronic address: halltm@netspace.net.au.
+(4)Centre Hospitalier Universitaire de La Réunion, INSERM, CIC1410, 97410, Saint 
+Pierre, France. Electronic address: olivier.maillard@chu-reunion.fr.
+(5)School of Physiotherapy (IFMK), Centre Hospitalier Universitaire de La 
+Réunion, Reunion, France. Electronic address: yannick.perdrix@ies-reunion.fr.
+(6)Neurosurgey Department, Centre Hospitalier Universitaire de La Réunion, 
+Reunion, France. Electronic address: sebastien.freppel@chu-reunion.fr.
+
+BACKGROUND: Upper limb neurodynamic tests (ULNT) are used to diagnose 
+neuropathic conditions such as cervical radiculopathy (CR). Within the 
+literature, a positive ULNT is defined in markedly variable ways, which is 
+likely why the diagnostic accuracy of these tests lacks consistency across 
+studies.
+OBJECTIVES: To determine the diagnostic accuracy of single and combined upper 
+limb neurodynamic tests ((ULNT)1,2a, 2b and 3) for cervical radiculopathy using 
+test findings that are similar to those used in practice.
+DESIGN: Diagnostic accuracy study (prospective) design following the updated 
+STARD 2015 reporting guideline.
+METHOD: From 109 consecutively enrolled individuals with suspected CR. Of the 85 
+participants included, 27 (31.7%) were diagnosed with CR (mean age, 43.9years; 
+Neck Disability Index 38,16%). ULNTs test were performed by a blind examiner to 
+a CR reference standard of clinical diagnosis and magnetic resonance imaging 
+verification provided by a neurosurgeon.
+RESULTS: In general, the single tests were better at ruling in CR versus ruling 
+out. Of the single ULNT, the ULNT3 demonstrated the strongest post-test 
+probability change with a positive finding (73.28%). Three of four test 
+combinations demonstrated the highest clinical utility for changing the 
+post-test probability with a positive finding at 83.29% and with LR+ = 12.89 
+(95%CI: 3.10-53.62). Having none of the test's positive was able to rule out CR 
+with LR- = 0.08 (95%CI: 0.01-0.56).
+CONCLUSION: ULNTs fail to significantly alter post-test probability when used 
+singularly for diagnosis of CR. However, combinations of ULNT (3 out of 4 
+positive) can rule in CR, and rule out CR when all ULNT are negative.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.msksp.2021.102427
+PMID: 34298491 [Indexed for MEDLINE]

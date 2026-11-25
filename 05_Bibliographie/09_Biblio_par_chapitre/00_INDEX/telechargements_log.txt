@@ -1,0 +1,35 @@
+LOG - 2026-11-25 15:36
+OK   Ch1_Cervicalgie/CPG_Nonspecific_Neck_Pain_2025_PMC12620902.html (152992 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC12620902/
+OK   Ch2_Neurophysiologie/Shacklock_1995_foundations_note_PMID_consult.txt (2386 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=38510155&retmode=text&rettype=abstract
+OK   Ch3_Butler_Shacklock/Shacklock_1995_Neurodynamics_article_page.html (5811 bytes) <- https://www.physiotherapyjournal.com/article/S0031-9406%2805%2967024-1/fulltext
+OK   Ch3_Butler_Shacklock/Cervical_radiculopathy_epidemiology_2020_abstract.txt (2652 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=32710604&retmode=text&rettype=abstract
+OK   Ch4_Application_clinique/Routine_PT_with_without_neural_mobilization_2024_PMC11203317.html (205214 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC11203317/
+OK   Ch4_Application_clinique/Neural_mobilization_vs_conservative_2022_PMC9725158.html (265568 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC9725158/
+OK   Ch4_Application_clinique/Manual_therapy_cervical_radiculopathy_2021_PMC8195637.html (228906 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC8195637/
+OK   Ch4_Application_clinique/Neurodynamic_QoL_deep_flexors_2022_Wiley.html (5752 bytes) <- https://onlinelibrary.wiley.com/doi/10.1155/2022/9385459
+OK   Ch4_Application_clinique/Manual_therapy_cervical_lumbar_radiculopathy_2021_PMC8201115.html (299551 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC8201115/
+OK   Ch4_Application_clinique/Multimodal_rehab_cervical_radiculopathy_2022_PMC9422871.html (292758 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC9422871/
+OK   Ch4_Application_clinique/Articular_neural_mobilization_2025_NMA_abstract.txt (2302 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=40576779&retmode=text&rettype=abstract
+OK   Ch5_Materiel_methodes/Modified_ULNT_2024_PMC10949103.html (167484 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC10949103/
+OK   Ch5_Materiel_methodes/Diagnostic_accuracy_ULNT_cervical_radiculopathy_2021_abstract.txt (3149 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=34298491&retmode=text&rettype=abstract
+OK   Ch5_Materiel_methodes/Diagnostic_accuracy_neurodynamic_tests_2025_SciDirect.html (832981 bytes) <- https://www.sciencedirect.com/science/article/pii/S2468781225000657
+OK   Ch5_Materiel_methodes/NDI_validation_PMC9977990.html (209890 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC9977990/
+OK   Ch5_Materiel_methodes/Cervical_goniometry_2024_Springer.html (408005 bytes) <- https://link.springer.com/article/10.1186/s12891-024-07775-6
+OK   Ch5_Materiel_methodes/VAS_validation_PubMed_search.html (260128 bytes) <- https://pubmed.ncbi.nlm.nih.gov/?term=visual+analogue+scale+pain+validation
+OK   Ch8_Discussion/Xu_Ling_2025_NMA_abstract.txt (2779 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=40255362&retmode=text&rettype=abstract
+DONE. Files: 19
+REMOVED blocked page: Ch3_Butler_Shacklock\Shacklock_1995_Neurodynamics_article_page.html
+REMOVED blocked page: Ch4_Application_clinique\Neurodynamic_QoL_deep_flexors_2022_Wiley.html
+OK   Ch4_Application_clinique/Neurodynamic_QoL_deep_flexors_2022_PMC9556173.html (197991 bytes) <- https://pmc.ncbi.nlm.nih.gov/articles/PMC9556173/
+OK   Ch3_Butler_Shacklock/Shacklock_1995_Neurodynamics_abstract_ScienceDirect.html (832981 bytes) <- https://www.sciencedirect.com/science/article/abs/pii/S0031940605670241
+OK   Ch3_Butler_Shacklock/Shacklock_1995_OpenAlex_record.html (68061 bytes) <- https://openalex.org/works/W4255364251
+REPAIR DONE. Files: 20
+REMOVED JS shell: Ch3_Butler_Shacklock\Shacklock_1995_Neurodynamics_abstract_ScienceDirect.html
+REMOVED JS shell: Ch5_Materiel_methodes\Diagnostic_accuracy_neurodynamic_tests_2025_SciDirect.html
+OK   Ch5_Materiel_methodes/Diagnostic_accuracy_neurodynamic_tests_2025_fulltext.html (5800 bytes) <- https://www.mskscienceandpractice.com/article/S2468-7812(25)00065-7/fulltext
+OK   Ch5_Materiel_methodes/AlbertLucena_2025_diagnostic_accuracy_abstract.txt (4942 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=40156954&retmode=text&rettype=abstract
+OK   Ch5_Materiel_methodes/Shen_2023_ULNT1_accuracy_abstract.txt (2707 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=37356367&retmode=text&rettype=abstract
+OK   Ch5_Materiel_methodes/Koulidis_2019_ULNT_accuracy_abstract.txt (3236 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=30665045&retmode=text&rettype=abstract
+OK   Ch4_Application_clinique/Neurodynamic_QoL_deep_flexors_2022_abstract.txt (3277 bytes) <- https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=36246968&retmode=text&rettype=abstract
+FINAL DONE. Files: 22
+REMOVED Cloudflare page: Diagnostic_accuracy_neurodynamic_tests_2025_fulltext.html

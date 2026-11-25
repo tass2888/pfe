@@ -1,0 +1,60 @@
+1. Biomed Res Int. 2022 Oct 5;2022:9385459. doi: 10.1155/2022/9385459.
+eCollection  2022.
+
+Effects of Neurodynamic Mobilization on Health-Related Quality of Life and 
+Cervical Deep Flexors Endurance in Patients of Cervical Radiculopathy: A 
+Randomized Trial.
+
+Rafiq S(1), Zafar H(2)(3)(4), Gillani SA(5), Waqas MS(6), Liaqat S(7), Zia A(7), 
+Rafiq Y(8).
+
+Author information:
+(1)Physiotherapy department Jinnah Hospital, Lahore, Pakistan.
+(2)Department of Odontology, Clinical Oral Physiology, Faculty of Medicine, Umea 
+University, Umea, Sweden.
+(3)University Institute of Physical Therapy, University of Lahore, Lahore, 
+Pakistan.
+(4)College of Applied Medical Sciences, Rehabilitation Research Chair, 
+Department of Odontology, Clinical Oral Physiology, Faculty of Medicine, King 
+Saud University, Riyadh, Saudi Arabia.
+(5)Allied Health Science, University of Lahore, Lahore, Pakistan.
+(6)Services Hospital, Lahore, Pakistan.
+(7)Physiotherapy Department, Mayo Hospital, Lahore, Pakistan.
+(8)Pathology Department, Combined Military Hospital, Kohat, Pakistan.
+
+PURPOSE: Cervical radiculopathy is disorder of cervical spinal nerve root 
+affecting large number of population. Previously many studies are conducted to 
+design suitable protocol for management of this disorder, but they lack in 
+quality. The purpose of this study was to compare the effects of neural 
+mobilization and cervical isometrics on health-related quality of life and deep 
+flexors endurance in cervical radiculopathy.
+METHODS: A double-blinded randomized clinical trial was conducted at Mayo 
+Hospital, Lahore, Pakistan. Eighty-eight patients within the age range of 35-50 
+years were included in the study after taking their consent. In the experimental 
+group (n = 44), median nerve mobilization was applied along with cervical 
+isometric exercises. The control group (n = 44) performed cervical isometric 
+exercises alone. Muscle endurance was measured by craniocervical flexion test 
+and quality of life on 36 items short form health survey SF-36 scale. 
+Measurements were taken at baseline, at 2nd week, and at 4th week. For missing 
+data, intention-to-treat analysis was used.
+RESULTS: Within-group comparison with Friedman test showed a significant 
+difference between pre, mid, and posttreatment scores on craniocervical flexion 
+test and in all domains of SF 36 in both groups. While between-group comparison 
+with Mann-Whitney U test showed all variables were similar at baseline but after 
+4 weeks there was a statistically significant improvement in craniocervical 
+flexion test scores and all domains of SF 36 in the experimental group. But 
+domain of pain showed mean rank of 49.43 after 4 weeks in the experimental group 
+and 39.57 in the control group with p = 0.065 and d = 0.579, while for all the 
+other 7 domains values were p < .05 and d > 0.25.
+CONCLUSION: Neural mobilization combined with cervical isometrics shows 
+significant effects in improving quality of life and deep flexors endurance in 
+patients with cervical radiculopathy than cervical isometrics alone.
+
+Copyright © 2022 Shazia Rafiq et al.
+
+DOI: 10.1155/2022/9385459
+PMCID: PMC9556173
+PMID: 36246968 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

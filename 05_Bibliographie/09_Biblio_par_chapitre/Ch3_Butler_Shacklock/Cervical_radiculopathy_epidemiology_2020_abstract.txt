@@ -1,0 +1,48 @@
+1. Musculoskeletal Care. 2020 Dec;18(4):555-567. doi: 10.1002/msc.1498. Epub 2020
+ Jul 25.
+
+Cervical spine radiculopathy epidemiology: A systematic review.
+
+Mansfield M(1), Smith T(2), Spahr N(3)(4), Thacker M(1).
+
+Author information:
+(1)School of Health and Social Care, Department of Allied Health Sciences. Pain 
+Research Cluster; Ageing, Acute and Long Term Conditions Research Group., London 
+South Bank University, London, UK.
+(2)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal 
+Sciences, , Botnar Research Centre, University of Oxford, Oxford, UK.
+(3)Physiotherapy Department, Guy's and St Thomas Hospital NHS Foundation Trust, 
+London, UK.
+(4)Pain Section, Neuroimaging, Institute of Psychiatry, King's College London, 
+London, UK.
+
+BACKGROUND AND OBJECTIVE: Cervical spine radiculopathy (CSR) is a disabling 
+condition that has significant negative impacts on a person's mental health, 
+physical functioning and social participation. Research has reported variable 
+CSR incidence and prevalence among different populations. To date, no systematic 
+review has been completed investigating the prevalence or incidence of CSR; 
+therefore, our objective was to determine the incidence and/or prevalence of CSR 
+in adults.
+DESIGN AND METHOD: A systematic review was conducted including searches of 
+PubMed (MEDLINE), EMBASE and CINAHL from inception to February 25, 2020. Studies 
+including data on incidence and/or prevalence of CSR were included. 
+Methodological quality was assessed using a modified Hayden, Cote and Bombardier 
+appraisal checklist. Data were analysed narratively.
+RESULTS: Nine low- to high-quality studies were included in the final review. 
+Incidence ranged between 0.832 and 1.79 per 1,000 person-years from two 
+high-quality and one low-quality study. Prevalence values ranged from 1.21 to 
+5.8 per 1,000 from four medium- to high-quality studies. Prevalence values of 
+1.14% [95% confidence interval (CI): 0.45-1.82] and 1.31% (95% CI: 0.66-1.96) 
+for males and females, respectively, were reported from one medium-quality 
+study. One medium-quality study reported an unadjusted prevalence value of 6.3% 
+for males and females.
+CONCLUSIONS: This is the first systematic review investigating the epidemiology 
+of CSR in an adult population. This review reports a variable incidence rate and 
+prevalence of CSR among specific populations; however, this was based on nine 
+studies. There is a priority to investigate CSR epidemiology across other 
+populations globally and standardising CSR diagnostic criteria.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1002/msc.1498
+PMID: 32710604 [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+﻿1. Spine (Phila Pa 1976). 2003 Jan 1;28(1):52-62. doi: 
+10.1097/00007632-200301010-00014.
+
+Reliability and diagnostic accuracy of the clinical examination and patient 
+self-report measures for cervical radiculopathy.
+
+Wainner RS(1), Fritz JM, Irrgang JJ, Boninger ML, Delitto A, Allison S.
+
+Author information:
+(1)U.S. Army-Baylor Graduate Program in Physical Therapy, Fort Sam, Houston, 
+Texas, USA. robert.wainner@cen.amedd.army.mil
+
+STUDY DESIGN: A blinded, prospective diagnostic test study was conducted.
+OBJECTIVES: To assess the reliability and accuracy of individual clinical 
+examination items and self-report instruments for the diagnosis of cervical 
+radiculopathy, and to identify and assess the accuracy of an optimum test-item 
+cluster for the diagnosis of cervical radiculopathy.
+SUMMARY OF BACKGROUND DATA: Although cervical radiculopathy remains largely a 
+clinical diagnosis, the reliability and diagnostic accuracy of clinical 
+examination items, individually or in combination, for cervical radiculopathy is 
+largely unknown.
+METHODS: Patients with suspected cervical radiculopathy or carpal tunnel 
+syndrome received standardized electrophysiologic examination of the symptomatic 
+upper quarter followed by a standardized clinical examination by physical 
+therapist examiners blinded to diagnosis. Diagnostic properties were assessed 
+using a neural impairment reference criterion standard.
+RESULTS: The study involved 82 patients. More than two thirds of 34 clinical 
+examination items had reliability coefficients rated at least fair or better, 
+and 13 items had likelihood ratio point estimates above 2 or below 0.50. A 
+single diagnostic test item cluster of four variables was identified and 
+produced a positive likelihood ratio point estimate of 30.3. The 95% confidence 
+intervals for all likelihood ratio point estimates in this study were wide.
+CONCLUSIONS: Many items of the clinical examination were found to be reliable 
+and to have acceptable diagnostic properties, but the test item cluster 
+identified was more useful for indicating cervical radiculopathy than any single 
+test item. Upper limb tension Test A was the most useful test for ruling out 
+cervical radiculopathy. Further investigation is required both to validate the 
+test item cluster and to improve point estimate precision.
+
+DOI: 10.1097/00007632-200301010-00014
+PMID: 12544957 [Indexed for MEDLINE]

@@ -1,0 +1,57 @@
+1. Musculoskelet Sci Pract. 2019 Apr;40:21-33. doi: 10.1016/j.msksp.2019.01.001. 
+Epub 2019 Jan 12.
+
+Diagnostic accuracy of upper limb neurodynamic tests for the assessment of 
+peripheral neuropathic pain: A systematic review.
+
+Koulidis K(1), Veremis Y(2), Anderson C(3), Heneghan NR(4).
+
+Author information:
+(1)School of Sport, Exercise & Rehabilitation Sciences, University of 
+Birmingham, Edgbaston, Birmingham, B15 2TT, UK. Electronic address: 
+kostaskoul23@gmail.com.
+(2)School of Sport, Exercise & Rehabilitation Sciences, University of 
+Birmingham, Edgbaston, Birmingham, B15 2TT, UK. Electronic address: 
+veremis.y@gmail.com.
+(3)School of Sport, Exercise & Rehabilitation Sciences, University of 
+Birmingham, Edgbaston, Birmingham, B15 2TT, UK. Electronic address: 
+c.b.anderson@bham.ac.uk.
+(4)Centre of Precision Rehabilitation for Spinal Pain, School of Sport, Exercise 
+& Rehabilitation Sciences, University of Birmingham, Edgbaston, Birmingham, B15 
+2TT, UK. Electronic address: n.heneghan@bham.ac.uk.
+
+BACKGROUND: Upper limb neurodynamic tests (ULNTs) are used to identify a 
+neuropathic pain component in patients' presenting with arm and/or neck pain. 
+Clinical tests with established diagnostic accuracy are required to not only to 
+inform clinical management but also minimise costs associated with expensive 
+medical investigations.
+OBJECTIVE: To evaluate the role of ULNTs in assessment of peripheral neuropathic 
+pain and to inform their value in clinical practice when assessing patients with 
+arm and/or neck symptoms.
+DESIGN: Systematic review was undertaken according to published guidelines, and 
+reported in line with PRISMA-DTA.
+METHOD: Key databases were searched up to 21/11/2017.
+INCLUSION CRITERIA: Patient population experiencing arm and/or neck symptoms 
+with suspected peripheral neuropathic involvement, studies that compared ULNT to 
+a reference standard, any study design using primary diagnostic accuracy data. 
+Two reviewers independently assessed risk of bias (ROB) using QUADAS-2. The 
+overall quality of evidence was evaluated using GRADE.
+RESULTS: Of eight included studies (n = 579), four were assessed as low ROB, 
+although all had concerns regarding applicability. For carpal tunnel syndrome, 
+ULNT1 sensitivity values ranged 0.4-0.93, specificity 0.13-0.93, positive 
+likelihood ratio 0.86-3.67 and negative likelihood ratio 0.5-1.9. For cervical 
+radiculopathy ULNT1 and the combined use of four ULNTs had sensitivity of 0.97 
+(95%CI 0.85-1.00) whereas the ULNT3 was the most specific (0.87, 95%CI 
+0.62-0.98). Positive likelihood ratio ranged 0.58-5.68 and negative likelihood 
+ratio 0.12-1.62.
+CONCLUSION: Based on the available evidence ULNTs cannot be utilised as a 
+stand-alone test for the diagnosis of CTS. Limited evidence suggests that ULNTs 
+may be clinically relevant for the diagnosis of CR, but only as a "ruling out" 
+strategy. However, the overall quality of the body of evidence after applying 
+the GRADE approach was low to very low across studies. Further higher quality 
+research is needed to establish firm conclusions.
+
+Crown Copyright © 2019. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.msksp.2019.01.001
+PMID: 30665045 [Indexed for MEDLINE]

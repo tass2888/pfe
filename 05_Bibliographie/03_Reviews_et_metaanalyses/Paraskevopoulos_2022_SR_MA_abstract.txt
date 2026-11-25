@@ -1,0 +1,44 @@
+﻿1. J Sport Rehabil. 2022 Nov 17;32(3):325-334. doi: 10.1123/jsr.2022-0259. Print 
+2023 Mar 1.
+
+The Effectiveness of Neuromobilization in Patients With Cervical Radiculopathy: 
+A Systematic Review With Meta-Analysis.
+
+Paraskevopoulos E(1), Koumantakis G(1), Papandreou M(1).
+
+Author information:
+(1)Laboratory of Advanced Physiotherapy, Department of Physiotherapy, University 
+of West Attica, Athens,Greece.
+
+CONTEXT: Neuromobilization exercises (NE) could be a useful therapeutic tool to 
+induce analgesia and increase function and range of motion (ROM) in patients 
+with musculoskeletal pathologies with neuropathic components; however, the 
+effectiveness of this intervention in patients with cervical radiculopathy (CR) 
+is unknown.
+OBJECTIVE: To determine the effectiveness of NE in CR on pain, function, and 
+ROM.
+DESIGN: Systematic review and meta-analysis.
+EVIDENCE ACQUISITION: An electronic search was performed in the MEDLINE, Scopus, 
+PEDro, and EBSCO databases from inception until June 2022. The authors included 
+randomized clinical trials that evaluated the effectiveness of NE against 
+control groups or other interventions that aimed to treat patients with CR.
+EVIDENCE SYNTHESIS: Seven clinical trials met the eligibility criteria, and for 
+the quantitative synthesis, 5 studies were included. For the studies that 
+compared NE with a control group, the standardized mean difference for pain was 
+-1.33/10 (95% confidence interval [CI], -1.80 to -0.86; P < .01; I2 = 0%), for 
+function with the Neck Disability Index was -1.21/50 (95% CI, -1.67 to -0.75; P 
+< .01; I2 = 0%), and for neck flexion and extensions was 0.66 (95% CI, 0.23 to 
+1.10; P < .01; I2 = 0%) and 0.47 (95% CI, 0.04 to 0.90; P < .01; I2 = 0%), 
+respectively, with evidence of clinical effectiveness. These findings were based 
+on moderate-quality evidence according to the Grading of Recommendation, 
+Assessment, Development, and Evaluation rating. In studies that compared NE with 
+other interventions, the meta-analysis failed to demonstrate the statistical or 
+clinical superiority of NE.
+CONCLUSIONS: Moderate quality of evidence suggests that NE may be superior to no 
+treatment for pain, function, and ROM in patients with CR. In contrast, NE are 
+not superior to other interventions in the same outcomes, based on low- to very 
+low-quality evidence. More high-quality research is needed to assess the 
+consistency of these results.
+
+DOI: 10.1123/jsr.2022-0259
+PMID: 36395760 [Indexed for MEDLINE]

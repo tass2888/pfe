@@ -1,0 +1,33 @@
+﻿1. Man Ther. 2002 May;7(2):95-102. doi: 10.1054/math.2002.0453.
+
+A randomized clinical trial of manual therapy for cervico-brachial pain syndrome 
+-- a pilot study.
+
+Allison GT(1), Nagy BM, Hall T.
+
+Author information:
+(1)The Centre for Musculoskeletal Studies, The University of Western Australia, 
+Perth Western Australia. gta@cms.uwa.edu.au
+
+Cervico-brachial pain syndrome is an upper quarter pain condition in which 
+mechanosensitive neural tissue is considered a primary feature. A single-blind 
+randomized controlled trial was conducted to determine the clinical effect of 
+two manual therapy interventions. Thirty subjects (20 females and 10 males) were 
+randomly allocated to one of three groups - one of two manual therapy 
+intervention groups or a control group. One manual therapy intervention group 
+consisted of passive techniques aimed at mobilizing neural tissue structures and 
+the cervical spine. The other involved indirect manual therapy techniques with a 
+focus on articular components of the gleno-humeral joint and thoracic spine. The 
+treatment period lasted 8 weeks in total and was combined with a home exercise 
+programme. Following the 8-week baseline period the control group were crossed 
+over into the specific neural tissue manual therapy group. Pain visual analogue 
+scale (VAS), the short-form McGill pain and Northwick Park neck pain 
+questionnaires were completed before, midway and after the treatment period. The 
+findings suggest that both manual physiotherapy interventions combined with home 
+exercises are effective in improving pain intensity, pain quality scores and 
+functional disability levels. A group difference was observed for the VAS scores 
+at 8 weeks with the neural manual therapy technique having a significantly lower 
+score.
+
+DOI: 10.1054/math.2002.0453
+PMID: 12151246 [Indexed for MEDLINE]

@@ -1,0 +1,9 @@
+Xu X, Ling Y. Manual Therapy for Cervical Radiculopathy: Effects on Neck Disability and Pain - A Systematic Review and Network Meta-Analysis. J Pain Res. 2025 Apr 14;18:2035-2045. doi:10.2147/JPR.S513428. PMID: 40255362. PMCID: PMC12008560.
+
+OBJECTIVE: Evaluate application effects of different manual therapy approaches in cervical radiculopathy using network meta-analysis.
+
+METHODS: Randomized controlled trials from PubMed, Cochrane Library, Embase. Outcomes: Neck Disability Index (NDI) and VAS for neck pain. Three groups: C (exercise/other therapies without manual therapy), M (manual therapy without traction), MT (manual therapy with traction).
+
+RESULTS: 8 studies, 632 participants, mean age 40-47, duration 4-6 weeks. For NDI, Group M had highest probability of improvement (68.1%), then MT (29.1%), C (2.8%). Compared with C: NDI improved by 0.58 (95% CI -0.17, 1.33) in M and 0.36 (95% CI -0.39, 1.11) in MT. For VAS, Group M 59.5%, MT 39.6%, C 0.9%; VAS improved by 0.74 (95% CI -0.04, 1.52) in M and 0.61 (95% CI -0.18, 1.40) in MT. Differences M vs MT not significant. No apparent publication bias.
+
+CONCLUSION: Manual therapy is effective for improving neck pain and NDI in cervical radiculopathy; more evidence needed on cervical traction.

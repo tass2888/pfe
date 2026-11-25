@@ -1,0 +1,82 @@
+1. Musculoskelet Sci Pract. 2025 Jun;77:103317. doi: 10.1016/j.msksp.2025.103317.
+ Epub 2025 Mar 22.
+
+Diagnostic accuracy of neurodynamic tests in upper-limb entrapment neuropathies: 
+A systematic review and meta-analysis.
+
+Albert-Lucena D(1), Navarro-Santana MJ(2), Díaz-Arribas MJ(3), Rabanal-Rodríguez 
+G(4), Valera-Calero JA(5), Fernández-de-Las-Peñas C(6), Cook C(7), Plaza-Manzano 
+G(8).
+
+Author information:
+(1)Department of Radiology, Rehabilitation and Physiotherapy, Faculty of 
+Nursery, Physiotherapy and Podiatry, Complutense University of Madrid, 28040, 
+Madrid, Spain. Electronic address: daalbert@ucm.es.
+(2)Department of Radiology, Rehabilitation and Physiotherapy, Faculty of 
+Nursery, Physiotherapy and Podiatry, Complutense University of Madrid, 28040, 
+Madrid, Spain; Grupo InPhysio, Instituto de Investigación Sanitaria del Hospital 
+Clínico San Carlos (IdISSC), 28040, Madrid, Spain. Electronic address: 
+marconav@ucm.es.
+(3)Department of Radiology, Rehabilitation and Physiotherapy, Faculty of 
+Nursery, Physiotherapy and Podiatry, Complutense University of Madrid, 28040, 
+Madrid, Spain; Grupo InPhysio, Instituto de Investigación Sanitaria del Hospital 
+Clínico San Carlos (IdISSC), 28040, Madrid, Spain. Electronic address: 
+mjdiazar@med.ucm.es.
+(4)Department of Radiology, Rehabilitation and Physiotherapy, Faculty of 
+Nursery, Physiotherapy and Podiatry, Complutense University of Madrid, 28040, 
+Madrid, Spain. Electronic address: grabanal@ucm.es.
+(5)Department of Radiology, Rehabilitation and Physiotherapy, Faculty of 
+Nursery, Physiotherapy and Podiatry, Complutense University of Madrid, 28040, 
+Madrid, Spain; Grupo InPhysio, Instituto de Investigación Sanitaria del Hospital 
+Clínico San Carlos (IdISSC), 28040, Madrid, Spain. Electronic address: 
+juavaler@ucm.es.
+(6)Department of Physical Therapy, Occupational Therapy, Rehabilitation and 
+Physical Medicine, Universidad Rey Juan Carlos, 28922, Alcorcón, Spain; Cátedra 
+Institucional en Docencia, Clínica e Investigación en Fisioterapia: Terapia 
+Manual, Punción Seca y Ejercicio Terapéutico, Universidad Rey Juan Carlos, 
+28922, Alcorcón, Spain. Electronic address: cesar.fernandez@urjc.es.
+(7)Department of Orthopaedics, Duke University, Department of Population Health 
+Sciences, Duke Clinical Research Institute, Durham, NC, USA. Electronic address: 
+chad.cook@duke.edu.
+(8)Department of Radiology, Rehabilitation and Physiotherapy, Faculty of 
+Nursery, Physiotherapy and Podiatry, Complutense University of Madrid, 28040, 
+Madrid, Spain; Grupo InPhysio, Instituto de Investigación Sanitaria del Hospital 
+Clínico San Carlos (IdISSC), 28040, Madrid, Spain. Electronic address: 
+gusplaza@ucm.es.
+
+BACKGROUND: Upper-limb neurodynamic tests are commonly used to diagnose 
+neuropathies in this area, including cervical radiculopathy and carpal tunnel 
+syndrome, although their diagnostic accuracy remains uncertain across different 
+conditions and criteria.
+OBJECTIVE: To assess the diagnostic accuracy of upper-limb neurodynamic tests 
+and their variations and criteria for upper-limb entrapment neuropathies.
+METHODS: A systematic review with meta-analysis was conducted in different 
+databases (for their inception in February 2025), including studies evaluating 
+the diagnostic accuracy of these tests. Sensitivity, specificity, likelihood 
+ratios (LR), diagnostic odds ratios, diagnostic accuracy and the area under the 
+curve (AUC) were calculated using a bivariate and univariate meta-analysis. The 
+quality of evidence was evaluated using the GRADE approach, and meta-regression 
+was performed to examine the influence of diagnostic criteria.
+RESULTS: Twelve studies were included. Likelihood ratios for neuropathic pain 
+conditions were LR+:1.65 and LR-:0.57, for cervical radiculopathy were LR+:2 and 
+LR-:0.47, and for carpal tunnel syndrome were LR+:1.45 and LR-:0.66. The 
+upper-limb neurodynamic test 2A showed the highest diagnostic accuracy (AUC: 
+0.76), with LR+:2.59 and LR-:0.42 for cervical radiculopathy, while test 3 had 
+the highest specificity (0.92; LR+:7, LR-:0.48). Diagnostic accuracy for carpal 
+tunnel syndrome was lower (AUC: 0.62). Meta-regression showed significant 
+diagnostic criteria interaction, favoring structural differentiation maneuvers 
+(p = 0.002).
+CONCLUSION: Upper-limb neurodynamic tests show moderate sensitivity and low to 
+moderate specificity for diagnosing upper-limb entrapment neuropathies, with 
+diagnostic accuracy varying across conditions. The certainty of evidence ranges 
+from very low to moderate, emphasizing the need for cautious clinical 
+interpretation. Diagnostic reference criteria significantly influence test 
+performance.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.msksp.2025.103317
+PMID: 40156954 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest There is no conflict of 
+interest.

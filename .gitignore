@@ -1,0 +1,23 @@
+# Windows / macOS clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.temp
+*.bak
+*~
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local data that must stay private (anonymized study data goes here)
+# Uncomment when real patient data is added:
+# 07_Donnees/*.xlsx
+# 07_Donnees/*.csv
+
+# OS / archives
+*.zip
+*.rar
+*.7z

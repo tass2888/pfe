@@ -1,0 +1,35 @@
+﻿1. Man Ther. 2008 Jun;13(3):213-21. doi: 10.1016/j.math.2006.12.008. Epub 2007
+Mar  30.
+
+Do 'sliders' slide and 'tensioners' tension? An analysis of neurodynamic 
+techniques and considerations regarding their application.
+
+Coppieters MW(1), Butler DS.
+
+Author information:
+(1)Division of Physiotherapy, School of Health and Rehabilitation Sciences, The 
+University of Queensland, QLD 4072, St. Lucia Brisbane, Australia. 
+m.coppieters@uq.edu.au
+
+Despite the high prevalence of carpal tunnel syndrome and cubital tunnel 
+syndrome, the quality of clinical practice guidelines is poor and non-invasive 
+treatment modalities are often poorly documented. The aim of this cadaveric 
+biomechanical study was to measure longitudinal excursion and strain in the 
+median and ulnar nerve at the wrist and proximal to the elbow during different 
+types of nerve gliding exercises. The results confirmed the clinical assumption 
+that 'sliding techniques' result in a substantially larger excursion of the 
+nerve than 'tensioning techniques' (e.g., median nerve at the wrist: 12.6 versus 
+6.1mm, ulnar nerve at the elbow: 8.3 versus 3.8mm), and that this larger 
+excursion is associated with a much smaller change in strain (e.g., median nerve 
+at the wrist: 0.8% (sliding) versus 6.8% (tensioning)). The findings demonstrate 
+that different types of nerve gliding exercises have largely different 
+mechanical effects on the peripheral nervous system. Hence different types of 
+techniques should not be regarded as part of a homogenous group of exercises as 
+they may influence neuropathological processes differently. The findings of this 
+study and a discussion of possible beneficial effects of nerve gliding exercises 
+on neuropathological processes may assist the clinician in selecting more 
+appropriate nerve gliding exercises in the conservative and post-operative 
+management of common neuropathies.
+
+DOI: 10.1016/j.math.2006.12.008
+PMID: 17398140 [Indexed for MEDLINE]

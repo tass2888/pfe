@@ -1,0 +1,50 @@
+﻿1. Clin Rehabil. 2025 Nov;39(11):1405-1424. doi: 10.1177/02692155251370881. Epub 
+2025 Sep 18.
+
+Effect of median nerve neural mobilisation and cervical lateral glide on pain, 
+disability and function in patients with nerve-related neck and arm pain: A 
+systematic review and meta-analysis.
+
+Gillot T(1)(2), Lefebvre D(2), Michalak A(2), Miossec L(2), Combret Y(3)(4), 
+Prum G(5)(6).
+
+Author information:
+(1)Normandie Univ, UNIROUEN, CETAPS UR3832, Rouen, France.
+(2)CHU Rouen, Rouen Physical Therapy School, Rouen, France.
+(3)Physiotherapy Department, Le Havre Hospital, Le Havre, France.
+(4)Paris-Saclay University, UVSQ, Erphan, Versailles, France.
+(5)CHU Rouen, Physical and Rehabilitation Medicine, Rouen, France.
+(6)Laboratory of Anatomy, Faculty of Medicine, Normandie Univ, UNIROUEN, Rouen, 
+France.
+
+ObjectiveThis systematic review and meta-analysis aimed to evaluate the effects 
+of cervical lateral glide and median nerve neural mobilisation compared to no 
+treatment and other physical therapy treatments on pain, function and disability 
+in patients with nerve-related neck and arm pain.Data sourcesElectronic searches 
+were conducted in MEDLINE, Science Direct, Cochrane Library, PEDro and Google 
+Scholar up to 30 June 2025.Review methodsRandomised controlled trials were 
+included following PRISMA guidelines. Two authors independently selected 
+relevant studies, extracted data, assessed risk of bias (RoB2 tool), and rated 
+evidence quality. Meta-analysis was performed using random-effects models due to 
+expected heterogeneity. The study was registered on PROSPERO 
+(CRD42020216739).ResultsOverall, 20 studies with 953 patients met the inclusion 
+criteria. Cervical lateral glide reduced pain compared to no treatment (3 
+studies, MD -2.47; 95%CI: -3.41, -1.53; P < .001) and other physical therapy 
+techniques (2 studies, MD -1.29; 95%CI: -2.54, -0.05; P = .04). Median nerve 
+neural mobilisation also reduced pain compared to no treatment (4 studies, MD 
+-3.07; 95%CI: -3.78, -2.37; P < .001). Both interventions had modest effects on 
+disability (12 studies, SMD -0.50 to -1.22), with moderate-to-high heterogeneity 
+in analyses. The certainty of evidence was low to very low.ConclusionCervical 
+lateral glide and median nerve neural mobilisation are clinically effective for 
+reducing nerve-related neck and arm pain as part of multimodal management 
+strategies. The quality of evidence remains low as the level of certainty. 
+Targeting a population with a clear nociceptive, increased neural 
+mechanosensitivity or neuropathic component should lead to better clinical 
+outcomes.
+
+DOI: 10.1177/02692155251370881
+PMID: 40968604 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interestsThe authors 
+declared no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article.

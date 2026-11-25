@@ -1,0 +1,616 @@
+﻿{
+    "protocolSection":  {
+                            "identificationModule":  {
+                                                         "nctId":  "NCT06663592",
+                                                         "orgStudyIdInfo":  {
+                                                                                "id":  "P.T.REC/012/005270"
+                                                                            },
+                                                         "organization":  {
+                                                                              "fullName":  "Cairo University",
+                                                                              "class":  "OTHER"
+                                                                          },
+                                                         "briefTitle":  "Efficacy of Adding Neural Mobilization Techniques in Patients With Cervical Radiculopathy",
+                                                         "officialTitle":  "Effectiveness of Slider and Tensioner Neurodynamic Mobilization Techniques in Patients With Cervical Radiculopathy: A Randomized Controlled Trial"
+                                                     },
+                            "statusModule":  {
+                                                 "statusVerifiedDate":  "2026-04",
+                                                 "overallStatus":  "COMPLETED",
+                                                 "expandedAccessInfo":  {
+                                                                            "hasExpandedAccess":  false
+                                                                        },
+                                                 "startDateStruct":  {
+                                                                         "date":  "2024-11-15",
+                                                                         "type":  "ACTUAL"
+                                                                     },
+                                                 "primaryCompletionDateStruct":  {
+                                                                                     "date":  "2025-03-15",
+                                                                                     "type":  "ACTUAL"
+                                                                                 },
+                                                 "completionDateStruct":  {
+                                                                              "date":  "2025-04-15",
+                                                                              "type":  "ACTUAL"
+                                                                          },
+                                                 "studyFirstSubmitDate":  "2024-10-21",
+                                                 "studyFirstSubmitQcDate":  "2024-10-27",
+                                                 "studyFirstPostDateStruct":  {
+                                                                                  "date":  "2024-10-29",
+                                                                                  "type":  "ACTUAL"
+                                                                              },
+                                                 "lastUpdateSubmitDate":  "2026-04-06",
+                                                 "lastUpdatePostDateStruct":  {
+                                                                                  "date":  "2026-04-09",
+                                                                                  "type":  "ACTUAL"
+                                                                              }
+                                             },
+                            "sponsorCollaboratorsModule":  {
+                                                               "responsibleParty":  {
+                                                                                        "type":  "PRINCIPAL_INVESTIGATOR",
+                                                                                        "investigatorFullName":  "Hiba Mohammad Hasan",
+                                                                                        "investigatorTitle":  "Principal Investigator",
+                                                                                        "investigatorAffiliation":  "Cairo University"
+                                                                                    },
+                                                               "leadSponsor":  {
+                                                                                   "name":  "Cairo University",
+                                                                                   "class":  "OTHER"
+                                                                               }
+                                                           },
+                            "oversightModule":  {
+                                                    "oversightHasDmc":  false,
+                                                    "isFdaRegulatedDrug":  false,
+                                                    "isFdaRegulatedDevice":  false
+                                                },
+                            "descriptionModule":  {
+                                                      "briefSummary":  "The goal of this randomized controlled trial is to investigate the effects of adding slider neural mobilization technique compared to tensioner neural mobilization technique to conventional physical therapy treatment on pain, function, cervical range of motion, hand grip strength, and electrophysiological parameters of the median nerve in patients with cervical radiculopathy.",
+                                                      "detailedDescription":  "Cervical radiculopathy (CR) is a condition where the nerve root of a spinal nerve is compressed or impaired, causing the pain and symptoms to spread beyond the neck, radiating to the shoulder, and upper limb. Cervical radiculopathy primarily results from an impingement and inflammation of a nerve root induced by a space-occupying lesion that reduces the size of the intervertebral foramen, as a degenerative lesion of the zygapophyseal joint, or it is associated with a cervical disc derangement.\n\nPatients presenting with CR complain of neck, periscapular, and radicular pain into the hand and arm. As well as neurologic symptoms such as sensory disturbances (paresthesia or numbness), muscle weakness with reduced tendon reflexes in the affected nerve root, or a combination of these signs and symptoms.\n\nThe reported annual incidence of CR is 85 cases per 100,000 people in the population, while the prevalence is 3.5/1000 persons. The C7 nerve root is most frequently impacted, with more than half of all cases affecting this level.\n\nSeveral studies utilized therapeutic exercises, manual therapy, other modalities, cervical collars, cervical traction, postural education, and different medications such as drugs and steroid injections in the conservative management for cervical radiculopathy in its different stages.\n\nThe neural mobilization (NM) is a manual therapy method that improves neural flexibility, lowers dynamic sensitivity of the nervous system, increases blood flow, and relieves pain; for that, improved neural mobility and alleviated pain increase joint range of motion (ROM).\n\nThe NM techniques are delivered by two techniques, \"sliding/gliding\" and \"tensioning.\" Tensioner technique generate tension from both ends of the nerve, while sliders involve gliding of the nerve relative to its surrounding structures by performing joint movements that elongate the nerve bed with minimal strain. In addition, sliders are usually less aggressive than tensioners, and their use might be indicated at early disease stages.\n\nBoth techniques aid in preventing the formation of adhesions, reducing endoneurial pressure, reducing intraneural edema, increasing nerve oxygenation, and decreasing ischemic pain.\n\nStudies that used sliders and tensioners techniques in their clinical studies showed significant changes in biomechanical factors such as patients\u0027 self-reports of pain, disability, ROM, endurance, and muscle strength in the management of musculoskeletal neck disorders with nerve-related symptoms.\n\nTherefore, what are the possible effects of adding the tensioner neural mobilization technique versus the slider neural mobilization technique to conventional physical treatment in treating patients with cervical radiculopathy?"
+                                                  },
+                            "conditionsModule":  {
+                                                     "conditions":  [
+                                                                        "Cervical Radiculopathy",
+                                                                        "NeuromobÄ±lÄ±zatÄ±on",
+                                                                        "Median Nerve",
+                                                                        "Electromyography",
+                                                                        "Nerve Conduction"
+                                                                    ]
+                                                 },
+                            "designModule":  {
+                                                 "studyType":  "INTERVENTIONAL",
+                                                 "phases":  [
+                                                                "NA"
+                                                            ],
+                                                 "designInfo":  {
+                                                                    "allocation":  "RANDOMIZED",
+                                                                    "interventionModel":  "PARALLEL",
+                                                                    "primaryPurpose":  "TREATMENT",
+                                                                    "maskingInfo":  {
+                                                                                        "masking":  "DOUBLE",
+                                                                                        "whoMasked":  [
+                                                                                                          "PARTICIPANT",
+                                                                                                          "OUTCOMES_ASSESSOR"
+                                                                                                      ]
+                                                                                    }
+                                                                },
+                                                 "enrollmentInfo":  {
+                                                                        "count":  36,
+                                                                        "type":  "ACTUAL"
+                                                                    }
+                                             },
+                            "armsInterventionsModule":  {
+                                                            "armGroups":  [
+                                                                              {
+                                                                                  "label":  "Control group A (conventional treatment)",
+                                                                                  "type":  "ACTIVE_COMPARATOR",
+                                                                                  "description":  "Conventional treatment, including hot pack, stretching of the neck muscles, cervical isometrics exercise.",
+                                                                                  "interventionNames":  [
+                                                                                                            "Other: Conventional treatment"
+                                                                                                        ]
+                                                                              },
+                                                                              {
+                                                                                  "label":  "Experimental group B (Tensioning neural mobilization with addition to conventional treatment)",
+                                                                                  "type":  "EXPERIMENTAL",
+                                                                                  "description":  "Median nerve neural tensioning mobilization with addition to conventional treatment",
+                                                                                  "interventionNames":  [
+                                                                                                            "Other: Tensioner Neuro Dynamic Mobilization"
+                                                                                                        ]
+                                                                              },
+                                                                              {
+                                                                                  "label":  "Experimental group C (Sliding neural mobilization with addition to conventional treatment)",
+                                                                                  "type":  "EXPERIMENTAL",
+                                                                                  "description":  "Median nerve sliding neural mobilization with addition to conventional treatment",
+                                                                                  "interventionNames":  [
+                                                                                                            "Other: Slider Neuro Dynamic Mobilization"
+                                                                                                        ]
+                                                                              }
+                                                                          ],
+                                                            "interventions":  [
+                                                                                  {
+                                                                                      "type":  "OTHER",
+                                                                                      "name":  "Conventional treatment",
+                                                                                      "description":  "hot pack, stretching of the neck muscles, cervical isometrics exercise",
+                                                                                      "armGroupLabels":  [
+                                                                                                             "Control group A (conventional treatment)"
+                                                                                                         ]
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "OTHER",
+                                                                                      "name":  "Tensioner Neuro Dynamic Mobilization",
+                                                                                      "description":  "Median nerve tensioner neural mobilization with addition to conventional treatment",
+                                                                                      "armGroupLabels":  [
+                                                                                                             "Experimental group B (Tensioning neural mobilization with addition to conventional treatment)"
+                                                                                                         ]
+                                                                                  },
+                                                                                  {
+                                                                                      "type":  "OTHER",
+                                                                                      "name":  "Slider Neuro Dynamic Mobilization",
+                                                                                      "description":  "Median nerve neural sliding mobilization with addition to conventional treatment",
+                                                                                      "armGroupLabels":  [
+                                                                                                             "Experimental group C (Sliding neural mobilization with addition to conventional treatment)"
+                                                                                                         ]
+                                                                                  }
+                                                                              ]
+                                                        },
+                            "outcomesModule":  {
+                                                   "primaryOutcomes":  [
+                                                                           {
+                                                                               "measure":  "Visual Analogue Scale",
+                                                                               "description":  "to measure neck pain with score extended from 0 to 10, minimum score 0 (no pain), highest score 10 (worst pain).",
+                                                                               "timeFrame":  "At baseline, to the end of treatment at 4 weeks."
+                                                                           },
+                                                                           {
+                                                                               "measure":  "The Arabic Version Of Neck Disability Index",
+                                                                               "description":  "to assess the level of disabilities in patients with neck pain, in % points.",
+                                                                               "timeFrame":  "At baseline, to the end of treatment at 4 weeks."
+                                                                           },
+                                                                           {
+                                                                               "measure":  "Cervical Range of Motion",
+                                                                               "description":  "to measure the full cervical rotation using CROM device in degrees",
+                                                                               "timeFrame":  "At baseline, to the end of treatment at 4 weeks."
+                                                                           },
+                                                                           {
+                                                                               "measure":  "Hand Grip Strength",
+                                                                               "description":  "to measure hand grip strength using hydraulic dynamometer, in kilogram.",
+                                                                               "timeFrame":  "At baseline, to the end of treatment at 4 weeks."
+                                                                           },
+                                                                           {
+                                                                               "measure":  "Nerve Conduction Study",
+                                                                               "description":  "Motor conduction study for the median nerve, to measure conduction velocity (m/second), distal latency (ms), and amplitude(mV).",
+                                                                               "timeFrame":  "At baseline, to the end of treatment at 4 weeks."
+                                                                           },
+                                                                           {
+                                                                               "measure":  "F wave",
+                                                                               "description":  "F wave for the median nerve to measure latency (ms).",
+                                                                               "timeFrame":  "At baseline, to the end of treatment at 4 weeks."
+                                                                           },
+                                                                           {
+                                                                               "measure":  "H-Reflex",
+                                                                               "description":  "H-Reflex for the median nerve to measure latency (ms), amplitude (mV), H-R ratio (%).",
+                                                                               "timeFrame":  "At baseline, to the end of treatment at 4 weeks."
+                                                                           }
+                                                                       ]
+                                               },
+                            "eligibilityModule":  {
+                                                      "eligibilityCriteria":  "Inclusion Criteria:\n\n1. Current continuous or intermittent pain that has persisted for more than 3 months.\n2. Motor, reflex, and/or sensory changes in the upper limb.\n3. Both genders aged 30-50 years.\n4. Three positive special tests out of five as a predefined diagnostic criterion from the following tests: Upper Limb Neural Tension A (ULNT) test for the median nerve, Spurling\u0027s test, compression test, cervical distraction test, less than 60Â° cervical rotation towards the symptomatic side, and Valsalva maneuver.\n5. A motor nerve conduction study, F wave, and H reflex were performed in the involved limb to confirm CR.\n\nExclusion Criteria:\n\n1. History of surgical procedures for cervical or upper extremity.\n2. Clinical signs or symptoms of medical red flags (infection, cancer, and cardiac involvement).\n3. Patients with neck pain for signs and symptoms of serious pathology, upper cervical ligamentous insufficiency, unexplained cranial nerve dysfunction, and spinal fractures.\n4. Any systematic disease such as rheumatism and tuberculosis, cervical myelopathy, or multiple sclerosis.\n5. Systemic disease is known to cause generalized peripheral neuropathy, such as diabetes mellitus.\n6. Complete loss of sensation along the involved nerve root.\n7. Upper limb compression syndrome, such as thoracic outlet syndrome, carpal tunnel syndrome, and pronator syndrome.\n8. Pregnant woman.\n9. Patients who have received any physical therapy of the cervical region in the past 3 months.",
+                                                      "healthyVolunteers":  false,
+                                                      "sex":  "ALL",
+                                                      "minimumAge":  "30 Years",
+                                                      "maximumAge":  "50 Years",
+                                                      "stdAges":  [
+                                                                      "ADULT"
+                                                                  ]
+                                                  },
+                            "contactsLocationsModule":  {
+                                                            "locations":  [
+                                                                              {
+                                                                                  "facility":  "Cairo university",
+                                                                                  "city":  "Cairo",
+                                                                                  "state":  "Cairo Governorate",
+                                                                                  "country":  "Egypt",
+                                                                                  "geoPoint":  {
+                                                                                                   "lat":  30.06263,
+                                                                                                   "lon":  31.24967
+                                                                                               }
+                                                                              }
+                                                                          ]
+                                                        },
+                            "referencesModule":  {
+                                                     "references":  [
+                                                                        {
+                                                                            "pmid":  "9620187",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Abrams RA, Butler JM, Bodine-Fowler S, Botte MJ. Tensile properties of the neurorrhaphy site in the rat sciatic nerve. J Hand Surg Am. 1998 May;23(3):465-70. doi: 10.1016/S0363-5023(05)80464-2."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "2037611",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Adams MA, Dolan P. A technique for quantifying the bending moment acting on the lumbar spine in vivo. J Biomech. 1991;24(2):117-26. doi: 10.1016/0021-9290(91)90356-r."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "35782695",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Alharmoodi BY, Arumugam A, Ahbouch A, Moustafa IM. Comparative effects of tensioning and sliding neural mobilization on peripheral and autonomic nervous system function: A randomized controlled trial. Hong Kong Physiother J. 2022 Jun;42(1):41-53. doi: 10.1142/S1013702522500056. Epub 2022 Mar 17."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "20436238",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Audette I, Dumas JP, Cote JN, De Serres SJ. Validity and between-day reliability of the cervical range of motion (CROM) device. J Orthop Sports Phys Ther. 2010 May;40(5):318-23. doi: 10.2519/jospt.2010.3180."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "28704626",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Basson A, Olivier B, Ellis R, Coppieters M, Stewart A, Mudzi W. The Effectiveness of Neural Mobilization for Neuromusculoskeletal Conditions: A Systematic Review and Meta-analysis. J Orthop Sports Phys Ther. 2017 Sep;47(9):593-615. doi: 10.2519/jospt.2017.7117. Epub 2017 Jul 13."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "7775773",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Beaton DE, O\u0027Driscoll SW, Richards RR. Grip strength testing using the BTE work simulator and the Jamar dynamometer: a comparative study. Baltimore Therapeutic Equipment. J Hand Surg Am. 1995 Mar;20(2):293-8. doi: 10.1016/s0363-5023(05)80029-2."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "2218549",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Bland JH, Boushey DR. Anatomy and physiology of the cervical spine. Semin Arthritis Rheum. 1990 Aug;20(1):1-20. doi: 10.1016/0049-0172(90)90090-3."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "10946096",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Bogduk N, Mercer S. Biomechanics of the cervical spine. I: Normal kinematics. Clin Biomech (Bristol). 2000 Nov;15(9):633-48. doi: 10.1016/s0268-0033(00)00034-6."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "22851876",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Boyles R, Toy P, Mellon J Jr, Hayes M, Hammer B. Effectiveness of manual physical therapy in the treatment of cervical radiculopathy: a systematic review. J Man Manip Ther. 2011 Aug;19(3):135-42. doi: 10.1179/2042618611Y.0000000011."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "12954952",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Burke FD, Ellis J, McKenna H, Bradley MJ. Primary care management of carpal tunnel syndrome. Postgrad Med J. 2003 Aug;79(934):433-7. doi: 10.1136/pmj.79.934.433."
+                                                                        },
+                                                                        {
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "ISBN 0975091026"
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "16049211",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Carette S, Fehlings MG. Clinical practice. Cervical radiculopathy. N Engl J Med. 2005 Jul 28;353(4):392-9. doi: 10.1056/NEJMcp043887. No abstract available."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "24661461",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Carlesso LC, Macdermid JC, Gross AR, Walton DM, Santaguida PL. Treatment preferences amongst physical therapists and chiropractors for the management of neck pain: results of an international survey. Chiropr Man Therap. 2014 Mar 24;22(1):11. doi: 10.1186/2045-709X-22-11."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "17948286",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Cattrysse E, Barbero M, Kool P, Gagey O, Clarys JP, Van Roy P. 3D morphometry of the transverse and alar ligaments in the occipito-atlanto-axial complex: an in vitro analysis. Clin Anat. 2007 Nov;20(8):892-8. doi: 10.1002/ca.20559."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "15933493",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Christie AD, Inglis JG, Boucher JP, Gabriel DA. Reliability of the FCR H-reflex. J Clin Neurophysiol. 2005 Jun;22(3):204-9."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "18164333",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Cleland JA, Childs JD, Whitman JM. Psychometric properties of the Neck Disability Index and Numeric Pain Rating Scale in patients with mechanical neck pain. Arch Phys Med Rehabil. 2008 Jan;89(1):69-74. doi: 10.1016/j.apmr.2007.08.126."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "16508559",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Cleland JA, Fritz JM, Whitman JM, Palmer JA. The reliability and construct validity of the Neck Disability Index and patient specific functional scale in patients with cervical radiculopathy. Spine (Phila Pa 1976). 2006 Mar 1;31(5):598-602. doi: 10.1097/01.brs.0000201241.90914.22."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "16848101",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Cleland JA, Whitman JM, Fritz JM, Palmer JA. Manual physical therapy, cervical traction, and strengthening exercises in patients with cervical radiculopathy: a case series. J Orthop Sports Phys Ther. 2005 Dec;35(12):802-11. doi: 10.2519/jospt.2005.35.12.802."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "23823575",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Cobian DG, Daehn NS, Anderson PA, Heiderscheit BC. Active cervical and lumbar range of motion during performance of activities of daily living in healthy young adults. Spine (Phila Pa 1976). 2013 Sep 15;38(20):1754-63. doi: 10.1097/BRS.0b013e3182a2119c."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "17415752",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Coppieters MW, Alshami AM. Longitudinal excursion and strain in the median nerve during novel nerve gliding exercises for carpal tunnel syndrome. J Orthop Res. 2007 Jul;25(7):972-80. doi: 10.1002/jor.20310."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "17398140",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Coppieters MW, Butler DS. Do \u0027sliders\u0027 slide and \u0027tensioners\u0027 tension? An analysis of neurodynamic techniques and considerations regarding their application. Man Ther. 2008 Jun;13(3):213-21. doi: 10.1016/j.math.2006.12.008. Epub 2007 Mar 30."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "19252262",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Coppieters MW, Hough AD, Dilley A. Different nerve-gliding exercises induce different magnitudes of median nerve longitudinal excursion: an in vivo study using dynamic ultrasound imaging. J Orthop Sports Phys Ther. 2009 Mar;39(3):164-71. doi: 10.2519/jospt.2009.2913."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "12918862",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Coppieters MW, Stappaerts KH, Wouters LL, Janssens K. The immediate effects of a cervical lateral glide treatment technique in patients with neurogenic cervicobrachial pain. J Orthop Sports Phys Ther. 2003 Jul;33(7):369-78. doi: 10.2519/jospt.2003.33.7.369."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "14580833",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Dilley A, Lynn B, Greening J, DeLeon N. Quantitative in vivo studies of median nerve sliding in response to wrist, elbow, shoulder and neck movements. Clin Biomech (Bristol). 2003 Dec;18(10):899-907. doi: 10.1016/s0268-0033(03)00176-1."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "21178840",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Dugailly PM, Sobczak S, Moiseev F, Sholukha V, Salvia P, Feipel V, Rooze M, Van Sint Jan S. Musculoskeletal modeling of the suboccipital spine: kinematics analysis, muscle lengths, and muscle moment arms during axial rotation and flexion extension. Spine (Phila Pa 1976). 2011 Mar 15;36(6):E413-22. doi: 10.1097/BRS.0b013e3181dc844a."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "22711174",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Ellis RF, Hing WA, McNair PJ. Comparison of longitudinal sciatic nerve movement with different mobilization exercises: an in vivo study utilizing ultrasound imaging. J Orthop Sports Phys Ther. 2012 Aug;42(8):667-75. doi: 10.2519/jospt.2012.3854. Epub 2012 Jun 18."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "12954253",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Erel E, Dilley A, Greening J, Morris V, Cohen B, Lynn B. Longitudinal sliding of the median nerve in patients with carpal tunnel syndrome. J Hand Surg Br. 2003 Oct;28(5):439-43. doi: 10.1016/s0266-7681(03)00107-4."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "32808588",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Gugliotti M, Tau J, Gallo K, Sagliocca N, Horan M, Sussman N, Wisnewski R. Between-week reliability of the cervical range of motion (CROM) device for upper cervical rotation. J Man Manip Ther. 2021 Jun;29(3):176-180. doi: 10.1080/10669817.2020.1805691. Epub 2020 Aug 18."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "26917940",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Gilbert KK, Roger James C, Apte G, Brown C, Sizer PS, Brismee JM, Smith MP. Effects of simulated neural mobilization on fluid movement in cadaveric peripheral nerve sections: implications for the treatment of neuropathic pain and dysfunction. J Man Manip Ther. 2015 Sep;23(4):219-25. doi: 10.1179/2042618614Y.0000000094."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "29907118",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Guo GM, Li J, Diao QX, Zhu TH, Song ZX, Guo YY, Gao YZ. Cervical lordosis in asymptomatic individuals: a meta-analysis. J Orthop Surg Res. 2018 Jun 15;13(1):147. doi: 10.1186/s13018-018-0854-6."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "16524582",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Heuer F, Schmidt H, Klezl Z, Claes L, Wilke HJ. Stepwise reduction of functional spinal structures increase range of motion and change lordosis angle. J Biomech. 2007;40(2):271-80. doi: 10.1016/j.jbiomech.2006.01.007. Epub 2006 Mar 9."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "21508286",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Hsu WK. Advanced techniques in cervical spine surgery. J Bone Joint Surg Am. 2011 Apr 20;93(8):780-8. No abstract available."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "21823749",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Jaumard NV, Welch WC, Winkelstein BA. Spinal facet joint biomechanics and mechanotransduction in normal, injury and degenerative conditions. J Biomech Eng. 2011 Jul;133(7):071010. doi: 10.1115/1.4004493."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "15609843",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Joghataei MT, Arab AM, Khaksar H. The effect of cervical traction combined with conventional therapy on grip strength on patients with cervical radiculopathy. Clin Rehabil. 2004 Dec;18(8):879-87. doi: 10.1191/0269215504cr828oa."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "15040965",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Johnson GM. The sensory and sympathetic nerve supply within the cervical spine: review of recent observations. Man Ther. 2004 May;9(2):71-6. doi: 10.1016/S1356-689X(03)00093-6."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "22614870",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Kane NM, Oware A. Nerve conduction and electromyography studies. J Neurol. 2012 Jul;259(7):1502-8. doi: 10.1007/s00415-012-6497-3. Epub 2012 May 22."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "28453446",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Kim DG, Chung SH, Jung HB. The effects of neural mobilization on cervical radiculopathy patients\u0027 pain, disability, ROM, and deep flexor endurance. J Back Musculoskelet Rehabil. 2017 Sep 22;30(5):951-959. doi: 10.3233/BMR-140191."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "25420010",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Langevin P, Desmeules F, Lamothe M, Robitaille S, Roy JS. Comparison of 2 manual therapy and exercise protocols for cervical radiculopathy: a randomized clinical trial evaluating short-term effects. J Orthop Sports Phys Ther. 2015 Jan;45(1):4-17. doi: 10.2519/jospt.2015.5211."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "23705122",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Lee HJ, Kwon HK, Kim DH, Pyun SB. Nerve conduction studies of median motor nerve and median sensory branches according to the severity of carpal tunnel syndrome. Ann Rehabil Med. 2013 Apr;37(2):254-62. doi: 10.5535/arm.2013.37.2.254. Epub 2013 Apr 30."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "33367925",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Mansoori SS, Moustafa IM, Ahbouch A, Harrison DE. Optimal duration of stretching exercise in patients with chronic myofascial pain syndrome: A randomized controlled trial. J Rehabil Med. 2021 Jan 11;53(1):jrm00142. doi: 10.2340/16501977-2781."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "25582970",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Mattozzi I. [Conservative treatment of cervical radiculopathy with 5% lidocaine medicated plaster]. Minerva Med. 2015 Feb;106(1):1-7. Italian."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "7634654",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Millesi H, Zoch G, Reihsner R. Mechanical properties of peripheral nerves. Clin Orthop Relat Res. 1995 May;(314):76-83."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "25225464",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Moustafa IM, Diab AA. Multimodal treatment program comparing 2 different traction approaches for patients with discogenic cervical radiculopathy: a randomized controlled trial. J Chiropr Med. 2014 Sep;13(3):157-67. doi: 10.1016/j.jcm.2014.07.003."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "16329292",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Nachemson AL, Evans JH. Some mechanical properties of the third human lumbar interlaminar ligament (ligamentum flavum). J Biomech. 1968 Aug;1(3):211-20. doi: 10.1016/0021-9290(68)90006-7. No abstract available."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "22860876",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Nagamoto Y, Ishii T, Iwasaki M, Sakaura H, Moritomo H, Fujimori T, Kashii M, Murase T, Yoshikawa H, Sugamoto K. Three-dimensional motion of the uncovertebral joint during head rotation. J Neurosurg Spine. 2012 Oct;17(4):327-33. doi: 10.3171/2012.6.SPINE111104. Epub 2012 Aug 3."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "34973439",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Ostrov PB, Reddy AK, Ryoo JS, Behbahani M, Mehta AI. Anterior Cervical Discectomy and Fusion Versus Cervical Disc Arthroplasty: A Comparison of National Trends and Outcomes. World Neurosurg. 2022 Apr;160:e96-e110. doi: 10.1016/j.wneu.2021.12.099. Epub 2021 Dec 29."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "20091520",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Nikolaidis I, Fouyas IP, Sandercock PA, Statham PF. Surgery for cervical radiculopathy or myelopathy. Cochrane Database Syst Rev. 2010 Jan 20;2010(1):CD001466. doi: 10.1002/14651858.CD001466.pub3."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "21748426",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "O\u0027Connell GD, Sen S, Elliott DM. Human annulus fibrosus material properties from biaxial testing and constitutive modeling are altered with degeneration. Biomech Model Mechanobiol. 2012 Mar;11(3-4):493-503. doi: 10.1007/s10237-011-0328-9. Epub 2011 Jul 12."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "23538587",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Osmotherly PG, Rivett D, Rowe LJ. Toward understanding normal craniocervical rotation occurring during the rotation stress test for the alar ligaments. Phys Ther. 2013 Jul;93(7):986-92. doi: 10.2522/ptj.20120266. Epub 2013 Mar 28."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "35710209",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Papacharalambous C, Savva C, Karagiannis C, Giannakou K. The effectiveness of slider and tensioner neural mobilization techniques in the management of upper quadrant pain: A systematic review of randomized controlled trials. J Bodyw Mov Ther. 2022 Jul;31:102-112. doi: 10.1016/j.jbmt.2022.03.002. Epub 2022 Mar 18."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "11480468",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Peolsson A, Hedlund R, Oberg B. Intra- and inter-tester reliability and reference values for hand strength. J Rehabil Med. 2001 Jan;33(1):36-41. doi: 10.1080/165019701300006524."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "9106315",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Persson LC, Carlsson CA, Carlsson JY. Long-lasting cervical radicular pain managed with surgery, physiotherapy, or a cervical collar. A prospective, randomized study. Spine (Phila Pa 1976). 1997 Apr 1;22(7):751-8. doi: 10.1097/00007632-199704010-00007."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "36472990",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Rafiq S, Zafar H, Gillani SA, Waqas MS, Zia A, Liaqat S, Rafiq Y. Comparison of neural mobilization and conservative treatment on pain, range of motion, and disability in cervical radiculopathy: A randomized controlled trial. PLoS One. 2022 Dec 6;17(12):e0278177. doi: 10.1371/journal.pone.0278177. eCollection 2022."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "38027849",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Ahangar-Sirous R, Alizadeh M, Nejadghaderi SA, Noori M, Khabbazi A, Sullman MJM, Kolahi AA, Collins GS, Safiri S. The burden of neck pain in the Middle East and North Africa region, 1990-2019. Heliyon. 2023 Oct 21;9(11):e21296. doi: 10.1016/j.heliyon.2023.e21296. eCollection 2023 Nov."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "24378471",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Rushton A, Rivett D, Carlesso L, Flynn T, Hing W, Kerry R. International framework for examination of the cervical region for potential of Cervical Arterial Dysfunction prior to Orthopaedic Manual Therapy intervention. Man Ther. 2014 Jun;19(3):222-8. doi: 10.1016/j.math.2013.11.005. Epub 2013 Nov 23."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "35710510",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Sadeghi A, Rostami M, Ameri S, Karimi Moghaddam A, Karimi Moghaddam Z, Zeraatchi A. Effectiveness of isometric exercises on disability and pain of cervical spondylosis: a randomized controlled trial. BMC Sports Sci Med Rehabil. 2022 Jun 16;14(1):108. doi: 10.1186/s13102-022-00500-7."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "23375147",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Salem W, Lenders C, Mathieu J, Hermanus N, Klein P. In vivo three-dimensional kinematics of the cervical spine during maximal axial rotation. Man Ther. 2013 Aug;18(4):339-44. doi: 10.1016/j.math.2012.12.002. Epub 2013 Jan 29."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "33085299",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Sarwan G, De Jesus O. Electrodiagnostic Evaluation of Cervical Radiculopathy. 2023 Aug 23. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-. Available from http://www.ncbi.nlm.nih.gov/books/NBK563152/"
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "24630769",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Savva C, Giakas G, Efstathiou M, Karagiannis C. Test-retest reliability of handgrip strength measurement using a hydraulic hand dynamometer in patients with cervical radiculopathy. J Manipulative Physiol Ther. 2014 Mar-Apr;37(3):206-10. doi: 10.1016/j.jmpt.2014.02.001. Epub 2014 Mar 11."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "23429690",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Shaheen AA, Omar MT, Vernon H. Cross-cultural adaptation, reliability, and validity of the Arabic version of neck disability index in patients with neck pain. Spine (Phila Pa 1976). 2013 May 1;38(10):E609-15. doi: 10.1097/BRS.0b013e31828b2d09."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "8367787",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Smith SA, Massie JB, Chesnut R, Garfin SR. Straight leg raising. Anatomical effects on the spinal nerve root without and with fusion. Spine (Phila Pa 1976). 1993 Jun 15;18(8):992-9."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "2343981",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Strickler T, Malone T, Garrett WE. The effects of passive warming on muscle injury. Am J Sports Med. 1990 Mar-Apr;18(2):141-5. doi: 10.1177/036354659001800206."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "2233864",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Sunderland S. The anatomy and physiology of nerve injury. Muscle Nerve. 1990 Sep;13(9):771-84. doi: 10.1002/mus.880130903."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "32178655",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Taso M, Sommernes JH, Kolstad F, Sundseth J, Bjorland S, Pripp AH, Zwart JA, Brox JI. A randomised controlled trial comparing the effectiveness of surgical and nonsurgical treatment for cervical radiculopathy. BMC Musculoskelet Disord. 2020 Mar 16;21(1):171. doi: 10.1186/s12891-020-3188-6."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "22531897",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Thoomes EJ, Scholten-Peeters GG, de Boer AJ, Olsthoorn RA, Verkerk K, Lin C, Verhagen AP. Lack of uniform diagnostic criteria for cervical radiculopathy in conservative intervention studies: a systematic review. Eur Spine J. 2012 Aug;21(8):1459-70. doi: 10.1007/s00586-012-2297-9. Epub 2012 Apr 25."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "24731301",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "van Geest S, Kuijper B, Oterdoom M, van den Hout W, Brand R, Stijnen T, Assendelft P, Koes B, Jacobs W, Peul W, Vleggeert-Lankamp C. CASINO: surgical or nonsurgical treatment for cervical radiculopathy, a randomised controlled trial. BMC Musculoskelet Disord. 2014 Apr 14;15:129. doi: 10.1186/1471-2474-15-129."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "23104514",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "van Middelkoop M, Rubinstein SM, Ostelo R, van Tulder MW, Peul W, Koes BW, Verhagen AP. Surgery versus conservative care for neck pain: a systematic review. Eur Spine J. 2013 Jan;22(1):87-95. doi: 10.1007/s00586-012-2553-z. Epub 2012 Oct 29."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "34633462",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Varangot-Reille C, Cuenca-Martinez F, Arribas-Romano A, Bertoletti-Rodriguez R, Gutierrez-Martin A, Mateo-Perrino F, Suso-Marti L, Blanco-Diaz M, Calatayud J, Casana J. Effectiveness of Neural Mobilization Techniques in the Management of Musculoskeletal Neck Disorders with Nerve-Related Symptoms: A Systematic Review and Meta-Analysis with a Mapping Report. Pain Med. 2022 Apr 8;23(4):707-732. doi: 10.1093/pm/pnab300."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "1834753",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Vernon H, Mior S. The Neck Disability Index: a study of reliability and validity. J Manipulative Physiol Ther. 1991 Sep;14(7):409-15."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "11153552",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Wainner RS, Gill H. Diagnosis and nonoperative management of cervical radiculopathy. J Orthop Sports Phys Ther. 2000 Dec;30(12):728-44. doi: 10.2519/jospt.2000.30.12.728."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "12544957",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Wainner RS, Fritz JM, Irrgang JJ, Boninger ML, Delitto A, Allison S. Reliability and diagnostic accuracy of the clinical examination and patient self-report measures for cervical radiculopathy. Spine (Phila Pa 1976). 2003 Jan 1;28(1):52-62. doi: 10.1097/00007632-200301010-00014."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "2353270",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Yahia LH, Garzon S, Strykowski H, Rivard CH. Ultrastructure of the human interspinous ligament and ligamentum flavum. A preliminary study. Spine (Phila Pa 1976). 1990 Apr;15(4):262-8. doi: 10.1097/00007632-199004000-00002."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "19465371",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Young IA, Michener LA, Cleland JA, Aguilera AJ, Snyder AR. Manual therapy, exercise, and traction for patients with cervical radiculopathy: a randomized clinical trial. Phys Ther. 2009 Jul;89(7):632-42. doi: 10.2522/ptj.20080283. Epub 2009 May 21."
+                                                                        },
+                                                                        {
+                                                                            "pmid":  "16271604",
+                                                                            "type":  "BACKGROUND",
+                                                                            "citation":  "Zhang QH, Teo EC, Ng HW, Lee VS. Finite element analysis of moment-rotation relationships for human cervical spine. J Biomech. 2006;39(1):189-93. doi: 10.1016/j.jbiomech.2004.10.029. Epub 2004 Dec 21."
+                                                                        }
+                                                                    ]
+                                                 }
+                        },
+    "derivedSection":  {
+                           "miscInfoModule":  {
+                                                  "versionHolder":  "2026-11-25"
+                                              },
+                           "conditionBrowseModule":  {
+                                                         "meshes":  [
+                                                                        {
+                                                                            "id":  "D011843",
+                                                                            "term":  "Radiculopathy"
+                                                                        }
+                                                                    ],
+                                                         "ancestors":  [
+                                                                           {
+                                                                               "id":  "D010523",
+                                                                               "term":  "Peripheral Nervous System Diseases"
+                                                                           },
+                                                                           {
+                                                                               "id":  "D009468",
+                                                                               "term":  "Neuromuscular Diseases"
+                                                                           },
+                                                                           {
+                                                                               "id":  "D009422",
+                                                                               "term":  "Nervous System Diseases"
+                                                                           }
+                                                                       ]
+                                                     }
+                       },
+    "hasResults":  false
+}

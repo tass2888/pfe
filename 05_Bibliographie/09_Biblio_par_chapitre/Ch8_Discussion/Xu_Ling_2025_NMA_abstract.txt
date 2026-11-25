@@ -1,0 +1,51 @@
+1. J Pain Res. 2025 Apr 14;18:2035-2045. doi: 10.2147/JPR.S513428. eCollection 
+2025.
+
+Manual Therapy for Cervical Radiculopathy: Effects on Neck Disability and Pain - 
+A Systematic Review and Network Meta-Analysis.
+
+Xu X(1), Ling Y(2).
+
+Author information:
+(1)Department of Rehabilitation III, Hospital of Chengdu University of 
+Traditional Chinese Medicine, Chengdu, Sichuan Province, 610072, People's 
+Republic of China.
+(2)Department of Pediatrics, Hospital of Chengdu University of Traditional 
+Chinese Medicine, Chengdu, Sichuan Province, 610072, People's Republic of China.
+
+OBJECTIVE: To evaluate the application effects of different manual therapy 
+approaches in the treatment of cervical radiculopathy using a network 
+meta-analysis.
+METHODS: Prospective randomized controlled trials on manual therapy for cervical 
+radiculopathy published in PubMed, the Cochrane Library, and Embase databases 
+were retrieved. The neck disability index and visual analogue scale for neck 
+pain were collected and subjected to network meta-analysis.
+RESULTS: A total of 8 eligible studies involving 632 participants with a mean 
+age range of 40-47 years were included. The intervention duration ranged from 4 
+to 6 weeks. Three intervention groups were defined: Group C (exercise and other 
+therapies without manual therapy), Group M (manual therapy without traction), 
+and Group MT (manual therapy with traction). Larger circles indicate more 
+patients, and thicker lines show more studies comparing interventions. Group M 
+had the highest probability (68.1%) of improving the neck disability index, 
+followed by Group MT (29.1%), with Group C the lowest (2.8%). Compared to Group 
+C, neck disability index scores improved by 0.58 (95% CI: -0.17, 1.33) in Group 
+M and by 0.36 (95% CI: -0.39, 1.11) in Group MT. The difference between Group M 
+and Group MT was not significant (0.22, 95% CI: -0.59, 1.03). For neck pain 
+(visual analogue scale score), Group M had the highest probability (59.5%) of 
+improvement, followed by Group MT (39.6%), with Group C the lowest (0.9%). 
+Compared to Group C, the visual analogue scale score improved by 0.74 (95% CI: 
+-0.04, 1.52) in Group M and by 0.61 (95% CI: -0.18, 1.40) in Group MT. The 
+difference between Group M and Group MT was not significant (0.13, 95% CI: 
+-0.72, 0.98). Egger's regression test showed no apparent publication bias.
+CONCLUSION: Manual therapy is an effective approach for improving neck pain and 
+neck disability index in patients with cervical radiculopathy, but more 
+evidence-based support is needed regarding the use of cervical traction.
+
+© 2025 Xu and Ling.
+
+DOI: 10.2147/JPR.S513428
+PMCID: PMC12008560
+PMID: 40255362
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,52 @@
+1. Physiotherapy. 2023 Sep;120:17-25. doi: 10.1016/j.physio.2023.06.001. Epub
+2023  Jun 7.
+
+Diagnostic accuracy of the upper limb neurodynamic test with median bias (ULNT1) 
+for cervical radiculopathy: a systematic review and meta-analysis.
+
+Shen P(1), Chi-Chung Tsang R(2), Liang Y(1), Chen X(3).
+
+Author information:
+(1)The First Affiliated Hospital of Nanchang University, NO.17, Yong Wai Zheng 
+Jie, 330006 Nanchang, Jiangxi, China.
+(2)MacLehose Medical Rehabilitation Center, Hong Kong Special Administrative 
+Region of China.
+(3)The First Affiliated Hospital of Nanchang University, NO.17, Yong Wai Zheng 
+Jie, 330006 Nanchang, Jiangxi, China. Electronic address: 
+chenxiwen_1992@163.com.
+
+BACKGROUND: The upper limb neurodynamic test for median nerve (ULNT1) is 
+commonly applied for assessment of cervical radiculopathy (CR). However, the 
+diagnostic accuracy of ULNT1 in diagnosing CR remains unclear.
+OBJECTIVE: This study aimed to examine the diagnostic accuracy of the ULNT1 for 
+the CR.
+DATA SOURCES: Four databases were searched for relevant studies published up to 
+April 30, 2023.
+STUDY SELECTION: Cross-sectional or cohort studies that assessed the diagnostic 
+accuracy of ULNT1 for CR were included.
+DATA SYNTHESIS: The methodological quality of studies was assessed using the 
+Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2) checklist. A 
+bivariate random-effects regression model was used for the data synthesis. The 
+overall quality of evidence was evaluated using the GRADE approach.
+RESULTS: A total of 592 references were identified, and five studies with 465 
+patients met the inclusion criteria. The overall quality of the body of evidence 
+was very low across studies. Heterogeneity of studies was high. The pooled 
+sensitivity and specificity of the ULNT1 were 0.69 (95% CI 0.50-0.83) and 0.54 
+(95% CI 0.36-0.71), respectively. The summary receiver operating characteristic 
+curve area was 0.65 (95% CI 0.61-0.69).
+CONCLUSION: There is low certainty of evidence that the ULNT1 has only fair 
+accuracy in diagnosing CR. The ULNT1 was recommended as an add-on test after the 
+existing diagnostic pathway to enhance diagnostic accuracy further. High-quality 
+studies which follow the Standards for Reporting of Diagnostic Accuracy and the 
+QUADAS-2; a revised tool for the quality assessment of diagnostic accuracy, are 
+needed.
+SYSTEMATIC REVIEW REGISTRATION NUMBER: PROSPERO: CRD42021255686 CONTRIBUTION OF 
+THE PAPER.
+
+Copyright © 2023 Chartered Society of Physiotherapy. Published by Elsevier Ltd. 
+All rights reserved.
+
+DOI: 10.1016/j.physio.2023.06.001
+PMID: 37356367 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest None declared.

@@ -1,0 +1,36 @@
+﻿1. J Orthop Sports Phys Ther. 2025 Jul;55(7):1-14. doi: 10.2519/jospt.2025.12757.
+
+Effectiveness of Articular and Neural Mobilization for Managing Cervical 
+Radicular Pain: A Systematic Review With Network Meta-Analysis.
+
+García-Juez S, Navarro-Santana MJ, Valera-Calero JA, Albert-Lucena D, 
+Varas-de-la-Fuente AB, Plaza-Manzano G.
+
+OBJECTIVE: To evaluate the impact of articular and neural mobilization on pain 
+intensity and disability in patients with cervical radicular pain. DESIGN: 
+Intervention systematic review with network meta-analysis. LITERATURE RESEARCH: 
+The MEDLINE, SciELO, PubMed, PEDro, Scopus, Web of Science, and Cochrane 
+databases were searched up to February 2024. STUDY SELECTION CRITERIA: 
+Randomized controlled trials studying the effects of articular or neural 
+mobilization in adults with cervical radicular pain were included. DATA 
+SYNTHESIS: A frequentist network meta-analysis was used to assess pain intensity 
+and disability. The risk of bias and the certainty of the evidence were 
+evaluated using Version 2 of the Cochrane Risk of Bias (RoB 2) tool and the 
+Grading of Recommendations Assessment, Development, and Evaluation (GRADE) 
+approach, respectively. RESULTS: Out of 777 reports, 50 were analyzed 
+quantitatively. The combination of articular and neural mobilization with usual 
+care was most effective in reducing short-term pain intensity compared to wait 
+and see, sham, or placebo interventions (mean difference [MD], -3.23; 95% 
+confidence interval [CI]: -4.33, -2.12) and to standard care alone (MD, -1.52; 
+95% CI: -2.31, -0.73). There were significant improvements in pain-related 
+disability with neural mobilization plus usual care, surpassing wait and see, 
+sham, placebo interventions (standardized mean difference [SMD], -1.57; 95% CI: 
+-2.53, -0.61), and usual care alone (SMD, -1.31; 95% CI: -1.88, -0.73). Risk of 
+bias and heterogeneity of included trials downgraded the certainty of evidence. 
+CONCLUSION: Combining mobilization techniques with standard care may be 
+considered in clinical practice, although with care due to the moderate to very 
+low certainty of the evidence. J Orthop Sports Phys Ther 2025;55(7):1-14. Epub 
+16 May 2025. doi:10.2519/jospt.2025.12757.
+
+DOI: 10.2519/jospt.2025.12757
+PMID: 40576779 [Indexed for MEDLINE]
