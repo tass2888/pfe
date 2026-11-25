@@ -51,6 +51,6 @@ Dépendances : `python-pptx` et `Pillow` (déjà installées sur cette machine).
 ## Vérification effectuée
 
 - 15 diapositives générées sans erreur.
-- 12 images intégrées à partir des fichiers open access du projet.
+- 11 images intégrées à partir des fichiers open access du projet.
 - Notes orateur présentes sur toutes les diapositives illustrées.
 - Taille du fichier : environ 2,7 Mo.
