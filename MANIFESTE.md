@@ -3,8 +3,8 @@
 Généré le 25/11/2026. Arborescence conforme au plan final validé.
 
 ## Contenu
-- 25 dossiers (front matter, 9 chapitres, 5 annexes, 7 dossiers bibliographiques, brouillons, données, figures).
-- 62 fichiers au total (état final) : 9 PDF valides (en-tête %PDF vérifié), pages HTML officielles, abstracts PubMed, JSON ClinicalTrials, notes de cadrage et modèles d'annexes.
+- 49 dossiers (front matter, 9 chapitres, annexes, dossiers bibliographiques, brouillons, données, figures).
+- 121 fichiers au total (état courant) : 9 PDF valides (en-tête %PDF vérifié), pages HTML officielles, abstracts PubMed, JSON ClinicalTrials, notes de cadrage, modèles d'annexes et 22 images open access.
 - Script de téléchargement conservé dans `06_Brouillons_redaction\_setup_pfe_neurodynamique.ps1` pour reproductibilité.
 
 ## Téléchargements réussis (principaux)
@@ -32,6 +32,14 @@ Aucun livre intégral sous droit d'auteur n'a été copié. Les ouvrages payants
 - Textes intégraux ajoutés : CPG 2025 (PMC12620902), Lopez-Pardo 2024 (PMC11203317), Rafiq 2022 × 2 (PMC9725158, PMC9556173), Borrella-Andrés 2021 (PMC8195637), Kuligowski 2021 (PMC8201115), Mallard 2022 (PMC9422871), Zanwar 2024 (PMC10949103), Geoghegan 2022 (PMC9977990), goniométrie 2024 (Springer).
 - Résumés ajoutés : Shacklock 1995, Albert-Lucena 2025, Shen 2023, Koulidis 2019, Grondin 2021, Xu & Ling 2025, García-Juez 2025, épidémiologie 2020, Rafiq 2022.
 - Pages Cloudflare éliminées et remplacées par des notes fiables : Shacklock 1995 (ScienceDirect), Wiley 2022 (→ PMC9556173), diagnostic accuracy 2025 (→ résumé PubMed + note).
+
+## Ajout du 25/11/2026 — figures et tableaux
+- Dossier `08_Figures_Tables\` peuplé : 11 sous-dossiers (00_INDEX, Ch1 à Ch9, Annexes). Auparavant vide et donc non suivi par Git.
+- Spécification complète de 37 figures : `00_INDEX\INDEX_Figures.md` (légendes françaises, tags, relation avec le projet), `Figures_tags.csv`, `Prompts_generation_images.md`.
+- 22 images open access téléchargées depuis Wikimedia Commons (licences CC BY, CC BY-SA, CC0, domaine public), signatures vérifiées, 4,5 Mo.
+- Attributions obligatoires : `00_INDEX\Images_open_access_attributions.csv` et `Rapport_images_open_access.md`.
+- 15 figures restent à créer, notamment 3.1/3.2 (glisseur/tensionneur) et 7.2–7.4 (résultats à partir de données réelles). La génération IA a échoué avec `Invalid credential` (16 demandes rejetées) ; les prompts sont conservés.
+- Aucune figure copiée d'ouvrages sous droit d'auteur ni de supports de cours propriétaires.
 
 ## Actions suggérées
 1. Remplacer les `00_Notes_*.md` par les chapitres rédigés.
