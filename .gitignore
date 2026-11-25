@@ -6,6 +6,12 @@ Desktop.ini
 *.temp
 *.bak
 *~
+~$*.pptx
+~$*.ppt
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
 
 # Editors
 .vscode/
