@@ -14,7 +14,7 @@ from pptx.util import Inches, Pt
 ROOT = Path(r"C:\Users\LENOVO\Documents\PFE\PFE_Neurodynamique")
 FIG = ROOT / "08_Figures_Tables"
 OUT_DIR = ROOT / "09_Presentation"
-OUT = OUT_DIR / "Presentation_PFE_Neurodynamique.pptx"
+OUT = OUT_DIR / "Presentation_PFE_Neurodynamique_COMPLETE.pptx"
 
 NAVY = RGBColor(11, 31, 51)
 TEAL = RGBColor(14, 124, 134)
@@ -26,7 +26,7 @@ WHITE = RGBColor(255, 255, 255)
 MIDS = RGBColor(207, 218, 225)
 
 W, H = 13.333, 7.5
-N_SLIDES = 15
+N_SLIDES = 17
 
 # ---- credits from the repo attribution CSV ---------------------------------
 CREDITS = {}
@@ -134,7 +134,11 @@ def image_contain(slide, rel, x, y, w, h, caption=None, credit_key=None):
 
 def add_notes(slide, text):
     try:
-        slide.notes_slide.notes_text_frame.text = text
+        tf = slide.notes_slide.notes_text_frame
+        if tf.text.strip():
+            tf.text = tf.text.rstrip() + "\n" + text
+        else:
+            tf.text = text
     except Exception:
         pass
 
@@ -172,9 +176,10 @@ textbox(s, 0.55, 6.35, 7.0, 0.5, "UPSAT — Tunisie · Année universitaire 2025
 image_contain(s, "Ch1_Cervicalgie/Fig_1.1_Anatomie_rachis_cervical.png",
               8.35, 1.25, 4.35, 4.9,
               "Fig. 01 — Rachis cervical (C1–C7)", "Fig_1.1_Anatomie_rachis_cervical.png")
-textbox(s, 8.35, 6.45, 4.35, 0.3, "01 / 15", size=10, color=MIDS, align=PP_ALIGN.RIGHT)
-add_notes(s, "Diaporama de soutenance — 15 diapositives, structure inspiree du demo Stitch. "
-             "Toutes les donnees de resultats restent a saisir apres l'etude.")
+textbox(s, 8.35, 6.45, 4.35, 0.3, "01 / 17", size=10, color=MIDS, align=PP_ALIGN.RIGHT)
+add_notes(s, "Diaporama de soutenance — 17 diapositives, structure inspiree du demo Stitch et "
+             "completee avec les 22 images open access telechargees. Toutes les donnees de "
+             "resultats restent a saisir apres l'etude.")
 
 # ============================================================================
 # 02 — Contexte scientifique
@@ -187,17 +192,20 @@ card(s, 4.62, 1.85, 3.85, 1.55, "02 · Composante neurale",
      "Une part des tableaux associe une mécanosensibilité nerveuse à identifier par l'examen clinique.", AMBER)
 card(s, 8.69, 1.85, 4.05, 1.55, "03 · Retentissement",
      "Limitation des activités, risque de chronicisation et répercussions professionnelles.")
-textbox(s, 0.55, 3.72, 7.6, 0.35, "Ce que la littérature impose de prendre en compte",
-        size=14, color=NAVY, bold=True)
-bullet_list(s, 0.55, 4.15, 7.4, [
-    "Le rachis cervical, les racines C1–C8 et le plexus brachial forment un continuum mécanique.",
-    "Une approche uniquement musculo-articulaire néglige l'interface mécanique du tissu nerveux.",
-    "La distinction cervicalgie commune / cervicalgie avec composante neurodynamique conditionne l'inclusion.",
-], size=12)
+textbox(s, 0.55, 3.72, 5.6, 0.35, "Ce que la littérature impose de prendre en compte",
+        size=13, color=NAVY, bold=True)
+bullet_list(s, 0.55, 4.15, 5.4, [
+    "Rachis cervical, racines C1–C8 et plexus brachial forment un continuum mécanique.",
+    "Une approche uniquement musculo-articulaire néglige l'interface du tissu nerveux.",
+    "Cervicalgie commune vs composante neurodynamique : l'inclusion dépend de cette distinction.",
+], size=11.5, gap=0.55)
 image_contain(s, "Ch1_Cervicalgie/Fig_1.3_Radiculopathie_cervicale.png",
-              8.55, 3.72, 4.15, 2.65, "Fig. 02 — Radiculopathie cervicale (soutien)",
+              6.45, 3.72, 3.0, 1.55, "Fig. 02a — Radiculopathie cervicale",
               "Fig_1.3_Radiculopathie_cervicale.png")
-textbox(s, 0.55, 6.35, 7.6, 0.35,
+image_contain(s, "Ch1_Cervicalgie/Fig_1.4_Dermatomes_C5_T1.png",
+              9.65, 3.72, 3.0, 1.55, "Fig. 02b — Dermatomes C5–T1",
+              "Fig_1.4_Dermatomes_C5_T1.png")
+textbox(s, 0.55, 6.15, 12.1, 0.35,
         "Prévalence et proportion de composante neurale : valeurs à renseigner selon les références retenues.",
         size=10, color=GREY, italic=True)
 
@@ -327,14 +335,17 @@ card(s, 6.78, 1.85, 5.95, 3.05, "Michael Shacklock · Neurodynamique clinique",
      "• Dosage clinique adapté à l'irritabilité et au mécanisme pathomécanique.",
      accent=TEAL, body_size=11.5)
 rect(s, 0.55, 5.22, 12.18, 1.35, LIGHT, rounded=True)
-textbox(s, 0.8, 5.36, 5.6, 0.3, "SLIDER · GLISSEUR", size=11, color=TEAL, bold=True)
-textbox(s, 0.8, 5.72, 5.6, 0.7,
+image_contain(s, "Ch3_Butler_Shacklock/Fig_3.5_Interface_mecanique_Shacklock.jpg",
+              0.68, 5.30, 2.5, 1.12, "Fig. 05 — Interface foraminale",
+              "Fig_3.5_Interface_mecanique_Shacklock.jpg")
+textbox(s, 3.4, 5.36, 4.25, 0.3, "SLIDER · GLISSEUR", size=11, color=TEAL, bold=True)
+textbox(s, 3.4, 5.72, 4.25, 0.7,
         "Un pôle se met en tension pendant que l'autre se relâche : excursion maximale, contrainte faible.",
-        size=11, color=DARK)
-textbox(s, 6.85, 5.36, 5.6, 0.3, "TENSIONER · TENSEUR", size=11, color=AMBER, bold=True)
-textbox(s, 6.85, 5.72, 5.6, 0.7,
+        size=10.5, color=DARK)
+textbox(s, 7.85, 5.36, 4.55, 0.3, "TENSIONER · TENSEUR", size=11, color=AMBER, bold=True)
+textbox(s, 7.85, 5.72, 4.55, 0.7,
         "Les deux extrémités s'allongent simultanément : contrainte accrue, à introduire progressivement.",
-        size=11, color=DARK)
+        size=10.5, color=DARK)
 
 # ============================================================================
 # 09 — Application clinique
@@ -348,10 +359,13 @@ card(s, 0.55, 3.48, 6.35, 1.45, "02 · Différenciation structurelle",
 card(s, 0.55, 5.11, 6.35, 1.45, "03 · Traitement selon irritabilité",
      "Ouverture de l'interface et glissements indolores en phase irritable ; mise en tension progressive ensuite.")
 image_contain(s, "Ch3_Butler_Shacklock/Fig_3.3_ULNT1_median.jpg",
-              7.25, 1.85, 2.45, 2.05, "Fig. 05a — Nerf médian",
+              7.25, 1.85, 1.7, 1.7, "Fig. 06a — Médian",
               "Fig_3.3_ULNT1_median.jpg")
+image_contain(s, "Ch3_Butler_Shacklock/Fig_3.4_Tests_median_radial_ulnaire.gif",
+              9.13, 1.85, 1.7, 1.7, "Fig. 06b — 3 nerfs",
+              "Fig_3.4_Tests_median_radial_ulnaire.gif")
 image_contain(s, "Ch4_Application_clinique/Fig_4.1_Examen_clinique.jpg",
-              9.95, 1.85, 2.75, 2.05, "Fig. 05b — Examen clinique",
+              11.0, 1.85, 1.7, 1.7, "Fig. 06c — Examen",
               "Fig_4.1_Examen_clinique.jpg")
 rect(s, 7.25, 4.35, 5.45, 2.15, NAVY, rounded=True)
 textbox(s, 7.5, 4.52, 4.95, 0.3, "RÈGLE D'INTERPRÉTATION", size=10, color=AMBER, bold=True)
@@ -381,11 +395,14 @@ bullet_list(s, 0.55, 5.08, 6.2, [
     "Secondaires : NDI, inclinométrie cervicale, ULNT, examen neurologique.",
     "Optionnels : GPE, PSFS.",
 ], size=11, gap=0.42)
+image_contain(s, "Ch5_Materiel_methodes/Fig_5.2_Mesure_AMC_cervicale.png",
+              7.1, 2.95, 2.6, 1.25, "Fig. 07a — Goniométrie",
+              "Fig_5.2_Mesure_AMC_cervicale.png")
 image_contain(s, "Ch5_Materiel_methodes/Fig_5.1_Design_etude.png",
-              7.1, 3.18, 5.6, 1.65, "Fig. 06 — Flux CONSORT à deux groupes",
+              9.9, 2.95, 2.8, 1.25, "Fig. 07b — Flux CONSORT",
               "Fig_5.1_Design_etude.png")
 image_contain(s, "Ch5_Materiel_methodes/Fig_5.3_Evaluation_douleur_EVA.png",
-              7.1, 5.15, 5.6, 1.2, "Fig. 06b — Échelle visuelle analogique",
+              7.1, 4.4, 5.6, 0.95, "Fig. 07c — Échelle visuelle analogique",
               "Fig_5.3_Evaluation_douleur_EVA.png")
 
 # ============================================================================
@@ -422,10 +439,31 @@ textbox(s, 4.65, 5.65, 7.85, 0.85,
         size=12, color=WHITE)
 
 # ============================================================================
-# 12 — Résultats (sans données inventées)
+# 12 — Protocole : repères anatomiques des techniques
 # ============================================================================
 s = new_slide()
-base(s, 12, "Résultats", "Données cliniques et comparaisons statistiques — à renseigner après l'étude")
+base(s, 12, "Protocole — repères anatomiques", "Nerfs ciblés et scène clinique pour les glisseurs / tenseurs")
+image_contain(s, "Ch6_Protocole_reeducation/Fig_6.1_Glisseur_median.jpg",
+              0.55, 1.85, 5.9, 2.0, "Fig. 08a — Médian : glisseur (repère anatomique)",
+              "Fig_6.1_Glisseur_median.jpg")
+image_contain(s, "Ch6_Protocole_reeducation/Fig_6.2_Mobilisation_radial.jpg",
+              6.78, 1.85, 5.95, 2.0, "Fig. 08b — Radial : mobilisation (repère anatomique)",
+              "Fig_6.2_Mobilisation_radial.jpg")
+image_contain(s, "Ch6_Protocole_reeducation/Fig_6.3_Mobilisation_ulnaire.jpg",
+              0.55, 4.05, 5.9, 2.0, "Fig. 08c — Ulnaire : mobilisation (repère anatomique)",
+              "Fig_6.3_Mobilisation_ulnaire.jpg")
+image_contain(s, "Ch6_Protocole_reeducation/Fig_6.4_Glissement_lateral_technique.jpg",
+              6.78, 4.05, 5.95, 2.0, "Fig. 08d — Scène clinique (illustration générique)",
+              "Fig_6.4_Glissement_lateral_technique.jpg")
+textbox(s, 0.55, 6.3, 12.1, 0.45,
+        "Ces images montrent des repères anatomiques ou des scènes génériques : elles ne constituent pas une démonstration technique des gestes.",
+        size=10.5, color=GREY, italic=True)
+
+# ============================================================================
+# 13 — Résultats (sans données inventées)
+# ============================================================================
+s = new_slide()
+base(s, 13, "Résultats", "Données cliniques et comparaisons statistiques — à renseigner après l'étude")
 textbox(s, 0.55, 1.82, 7.4, 0.3, "Tableau 01 · Comparaison T0 / T1 / T2",
         size=13, color=NAVY, bold=True)
 rows, cols = 5, 4
@@ -457,22 +495,24 @@ for r_i, row in enumerate(data, start=1):
                 r.font.size = Pt(10); r.font.color.rgb = DARK
 rect(s, 8.35, 2.22, 4.35, 3.0, LIGHT, rounded=True)
 rect(s, 8.35, 2.22, 4.35, 0.06, AMBER)
-textbox(s, 8.62, 2.45, 3.8, 0.35, "FIGURE 06 · ZONE GRAPHIQUE",
+textbox(s, 8.62, 2.38, 3.8, 0.3, "FIGURE 09 · MODÈLE CONSORT",
         size=11, color=NAVY, bold=True)
-textbox(s, 8.62, 2.95, 3.8, 1.9,
-        "Emplacement réservé au graphique comparatif (EVA, NDI ou amplitudes) "
-        "issu de l'analyse statistique des données réelles anonymisées.",
-        size=11.5, color=DARK)
+image_contain(s, "Ch7_Resultats/Fig_7.1_CONSORT_flow.png",
+              8.55, 2.72, 3.95, 1.85, "Fig. 09 — Flux de participants",
+              "Fig_7.1_CONSORT_flow.png")
+textbox(s, 8.62, 4.7, 3.8, 0.45,
+        "Modèle à remplir avec les effectifs réels de l'étude.",
+        size=10.5, color=GREY, italic=True)
 textbox(s, 0.55, 5.55, 12.1, 0.75,
         "Moyennes ± écarts-types (ou médianes [IQR]) selon la normalité des distributions. "
         "Aucune valeur n'est présentée tant que les données de l'étude ne sont pas disponibles.",
         size=11, color=GREY, italic=True)
 
 # ============================================================================
-# 13 — Discussion
+# 14 — Discussion
 # ============================================================================
 s = new_slide()
-base(s, 13, "Discussion", "Interprétation, littérature et limites")
+base(s, 14, "Discussion", "Interprétation, littérature et limites")
 card(s, 0.55, 1.85, 7.6, 1.1, "01 · Principaux enseignements",
      "Interprétation de l'évolution observée et cohérence avec H0 / H1.")
 card(s, 0.55, 3.1, 7.6, 1.1, "02 · Littérature scientifique",
@@ -482,18 +522,21 @@ card(s, 0.55, 4.35, 7.6, 1.1, "03 · Biais & contraintes",
 card(s, 0.55, 5.6, 7.6, 1.1, "04 · Perspectives",
      "ECR multicentrique, suivi à moyen terme et stratification selon le profil d'irritabilité.", AMBER)
 image_contain(s, "Ch8_Discussion/Fig_8.1_Comparaison_preuves.png",
-              8.45, 1.85, 4.25, 3.3, "Fig. 08 — Hiérarchie des preuves",
+              8.45, 1.85, 4.25, 2.15, "Fig. 10a — Hiérarchie des preuves",
               "Fig_8.1_Comparaison_preuves.png")
+image_contain(s, "Ch8_Discussion/Fig_8.2_Synthese_certitude_GRADE.png",
+              8.45, 4.1, 4.25, 1.25, "Fig. 10b — Niveaux de preuve",
+              "Fig_8.2_Synthese_certitude_GRADE.png")
 rect(s, 8.45, 5.5, 4.25, 1.2, NAVY, rounded=True)
 textbox(s, 8.7, 5.65, 3.75, 0.85,
         "Ne pas généraliser les résultats de radiculopathie à toutes les cervicalgies non spécifiques.",
         size=11, color=WHITE)
 
 # ============================================================================
-# 14 — Conclusion
+# 15 — Conclusion
 # ============================================================================
 s = new_slide()
-base(s, 14, "Conclusion", "Messages clés pour la pratique clinique")
+base(s, 15, "Conclusion", "Messages clés pour la pratique clinique")
 card(s, 0.55, 1.9, 3.85, 3.3, "01 · Évaluation systématique",
      "Les tests ULNT et la différenciation structurelle affinent le raisonnement clinique "
      "devant une cervicalgie à composante neurale.\n\nRaisonnement clinique")
@@ -509,7 +552,7 @@ textbox(s, 0.85, 5.75, 11.5, 0.55,
         size=12.5, color=WHITE)
 
 # ============================================================================
-# 15 — Remerciements
+# 16 — Remerciements
 # ============================================================================
 s = new_slide()
 rect(s, 0, 0, W, H, NAVY)
@@ -531,7 +574,20 @@ textbox(s, 0.55, 6.45, 11.8, 0.35,
 textbox(s, 0.55, 6.85, 11.8, 0.25,
         "Illustrations : Wikimedia Commons (licences CC BY / CC BY-SA / CC0 / domaine public) — crédits détaillés dans les notes des diapositives.",
         size=8.5, color=MIDS, italic=True)
-textbox(s, 12.0, 6.45, 0.75, 0.3, "15 / 15", size=10, color=MIDS, align=PP_ALIGN.RIGHT)
+textbox(s, 12.0, 6.45, 0.75, 0.3, "16 / 17", size=10, color=MIDS, align=PP_ALIGN.RIGHT)
+
+# ============================================================================
+# 17 — Annexe : modèle CONSORT
+# ============================================================================
+s = new_slide()
+base(s, 17, "Annexe — modèle CONSORT", "Check-list / diagramme pour la rédaction des résultats")
+rect(s, 0.55, 1.85, 12.18, 4.85, LIGHT, rounded=True)
+image_contain(s, "Annexes/Fig_A.3_CONSORT_checklist.png",
+              1.65, 2.0, 10.0, 4.3, "Fig. 11 — Diagramme CONSORT à deux groupes",
+              "Fig_A.3_CONSORT_checklist.png")
+textbox(s, 0.8, 6.42, 11.7, 0.3,
+        "Image open access — à adapter aux effectifs réels de l'étude. Crédit complet dans les notes orateur.",
+        size=9.5, color=GREY, italic=True)
 
 # ---- save ------------------------------------------------------------------
 OUT_DIR.mkdir(parents=True, exist_ok=True)

@@ -4,7 +4,7 @@ Généré le 25/11/2026. Arborescence conforme au plan final validé.
 
 ## Contenu
 - 50 dossiers (front matter, 9 chapitres, annexes, dossiers bibliographiques, brouillons, données, figures, présentation).
-- 124 fichiers au total (état courant) : 9 PDF valides (en-tête %PDF vérifié), pages HTML officielles, abstracts PubMed, JSON ClinicalTrials, notes de cadrage, modèles d'annexes, 22 images open access et la présentation PPTX de soutenance.
+- 125 fichiers au total (état courant) : 9 PDF valides (en-tête %PDF vérifié), pages HTML officielles, abstracts PubMed, JSON ClinicalTrials, notes de cadrage, modèles d'annexes, 22 images open access et les présentations PPTX de soutenance.
 - Script de téléchargement conservé dans `06_Brouillons_redaction\_setup_pfe_neurodynamique.ps1` pour reproductibilité.
 
 ## Téléchargements réussis (principaux)
@@ -42,9 +42,11 @@ Aucun livre intégral sous droit d'auteur n'a été copié. Les ouvrages payants
 - Aucune figure copiée d'ouvrages sous droit d'auteur ni de supports de cours propriétaires.
 
 ## Ajout du 25/11/2026 — présentation de soutenance
-- Dossier `09_Presentation\` créé avec `Presentation_PFE_Neurodynamique.pptx` (15 diapositives, 16:9, 2,7 Mo), `_build_presentation.py` et `README.md`.
+- Dossier `09_Presentation\` créé avec `Presentation_PFE_Neurodynamique_COMPLETE.pptx` (17 diapositives, 16:9, 3,8 Mo), `_build_presentation.py` et `README.md`.
+- Version initiale `Presentation_PFE_Neurodynamique.pptx` (15 diapositives, 11 images) conservée à titre historique : le fichier était verrouillé lors de la régénération.
 - Structure inspirée du démo ZIP `stitch_neurodynamics_in_cervicalgia_pfe.zip` fourni par l'utilisateur, mais contenu réécrit pour le protocole validé du PFE (Butler/Shacklock, ECR deux groupes, 10 séances, T0/T1/T2).
-- Aucune image de la démo n'a été réutilisée ; seules les images open access déjà présentes dans `08_Figures_Tables\` sont intégrées, avec crédits dans les notes orateur.
+- Aucune image de la démo n'a été réutilisée ; les **22 images open access** de `08_Figures_Tables\` sont désormais toutes intégrées dans leur diapo thématique, avec crédits complets dans les notes orateur.
+- Deux diapositives supplémentaires : « Protocole — repères anatomiques » (6.1–6.4) et « Annexe — modèle CONSORT » (A.3).
 - Résultats volontairement laissés sous forme de tableau/zone graphique à compléter avec les données réelles anonymisées.
 
 ## Actions suggérées
