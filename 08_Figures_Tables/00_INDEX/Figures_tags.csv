@@ -1,0 +1,38 @@
+ID,Fichier,Chapitre,Titre,Tags,Relation_avec_le_projet,Statut
+1.1,Fig_1.1_Anatomie_rachis_cervical.png,Ch1_Cervicalgie,Anatomie du rachis cervical,"#Ch1 #Anatomie #RachisCervical #C1C7 #Lordose","Cadre anatomique de la cervicalgie ; situe les structures à l origine de la douleur.",A_generer
+1.2,Fig_1.2_Racines_plexus_brachial.png,Ch1_Cervicalgie,Racines C5-T1 et plexus brachial,"#Ch1 #Anatomie #Racines #PlexusBrachial #C5T1","Explique l irradiation des symptômes cervicalges vers le membre supérieur.",A_generer
+1.3,Fig_1.3_Radiculopathie_cervicale.png,Ch1_Cervicalgie,Radiculopathie cervicale,"#Ch1 #Pathologie #Radiculopathie #Compression #DiagnosticDifferentiel","Soutient la distinction entre cervicalgie commune et cervicalgie avec composante neurodynamique.",A_generer
+1.4,Fig_1.4_Dermatomes_C5_T1.png,Ch1_Cervicalgie,Dermatomes C5-T1,"#Ch1 #Anatomie #Dermatomes #ExamenNeurologique","Aide à l examen neurologique standardisé décrit en Ch5.",A_generer
+2.1,Fig_2.1_Structure_nerf_peripherique.png,Ch2_Neurophysiologie,Structure du nerf périphérique,"#Ch2 #Neurophysiologie #NerfPeripherique #Epinevre #Perinevre #Endonevre","Support anatomique des mécanismes de contrainte nerveuse de Butler et Shacklock.",A_generer
+2.2,Fig_2.2_Physiologie_nerveuse.png,Ch2_Neurophysiologie,Physiologie nerveuse,"#Ch2 #Myeline #Conduction #TransportAxonal","Explique pourquoi allongement et compression modifient la fonction neurale.",A_generer
+2.3,Fig_2.3_Circulation_intraneurale.png,Ch2_Neurophysiologie,Circulation intraneurale,"#Ch2 #VasaNervorum #Microcirculation #Ischemie","Lien entre charge mécanique, microcirculation et symptômes.",A_generer
+2.4,Fig_2.4_Mecanosensibilite_neurale.png,Ch2_Neurophysiologie,Mécanosensibilité neurale,"#Ch2 #Mecanosensibilite #Glissement #Elongation #Compression","Fondement scientifique direct de la mobilisation neurodynamique.",A_generer
+3.1,Fig_3.1_Glisseur_neural.png,Ch3_Butler_Shacklock,Glisseur neural,"#Ch3 #Butler #Slider #Glisseur #ExcursionNeurale","Définit visuellement la technique expérimentale du protocole Ch6. Prioritaire.",A_generer
+3.2,Fig_3.2_Tenseur_neural.png,Ch3_Butler_Shacklock,Tenseur neural,"#Ch3 #Butler #Tensioner #Tenseur #Contrainte","Définit la progression vers les tenseurs et ses précautions. Prioritaire.",A_generer
+3.3,Fig_3.3_ULNT1_median.png,Ch3_Butler_Shacklock,ULNT1 du nerf médian,"#Ch3 #ULNT1 #Median #TestNeurodynamique #Shacklock","Test utilisé comme critère d inclusion et d évaluation Ch5.",A_generer
+3.4,Fig_3.4_Tests_median_radial_ulnaire.png,Ch3_Butler_Shacklock,Tests médian radial ulnaire,"#Ch3 #ULNT #Median #Radial #Ulnaire","Standardise les tests pour l évaluateur aveugle.",A_generer
+3.5,Fig_3.5_Interface_mecanique_Shacklock.png,Ch3_Butler_Shacklock,Interface mécanique de Shacklock,"#Ch3 #Shacklock #InterfaceMecanique #Foramen","Cadre conceptuel central : relie position cervicale et contrainte nerveuse.",A_generer
+4.1,Fig_4.1_Examen_clinique.png,Ch4_Application_clinique,Examen clinique neurodynamique,"#Ch4 #ExamenClinique #Neurodynamique #Pratique","Illustre la passation réelle des tests.",A_generer
+4.2,Fig_4.2_Glissement_lateral_cervical.png,Ch4_Application_clinique,Glissement latéral cervical,"#Ch4 #Technique #GlissementLateral #Cervicale","Technique conventionnelle administrée dans les deux groupes contrôle.",A_generer
+4.3,Fig_4.3_Algorithme_decisionnel.png,Ch4_Application_clinique,Algorithme décisionnel clinique,"#Ch4 #Algorithme #DecisionClinique #SelectionPatients","Traduit la restriction d inclusion aux cervicalgies avec composante neurodynamique.",A_generer
+5.1,Fig_5.1_Design_etude.png,Ch5_Materiel_methodes,Schéma de l étude,"#Ch5 #Methodologie #ECR #DeuxGroupes #CONSORT","Schéma directeur de l étude contrôlée randomisée.",A_generer
+5.2,Fig_5.2_Mesure_AMC_cervicale.png,Ch5_Materiel_methodes,Mesure de l amplitude cervicale,"#Ch5 #Mesure #Inclinometre #ROM","Critère de jugement secondaire : mobilité cervicale.",A_generer
+5.3,Fig_5.3_Evaluation_douleur_EVA.png,Ch5_Materiel_methodes,Évaluation de la douleur par EVA,"#Ch5 #Mesure #EVA #Douleur","Critère de jugement principal : douleur.",A_generer
+5.4,Fig_5.4_Procedures_ULNT.png,Ch5_Materiel_methodes,Procédure ULNT standardisée,"#Ch5 #Mesure #ULNT #Standardisation","Reproductibilité du test par évaluateur aveugle.",A_generer
+6.1,Fig_6.1_Glisseur_median.png,Ch6_Protocole_reeducation,Glisseur du nerf médian,"#Ch6 #Protocole #Slider #Median #Seance","Intervention expérimentale concrète S1 à S3.",A_generer
+6.2,Fig_6.2_Mobilisation_radial.png,Ch6_Protocole_reeducation,Mobilisation du nerf radial,"#Ch6 #Protocole #Radial #Mobilisation","Variante de progression du protocole.",A_generer
+6.3,Fig_6.3_Mobilisation_ulnaire.png,Ch6_Protocole_reeducation,Mobilisation du nerf ulnaire,"#Ch6 #Protocole #Ulnaire #Mobilisation","Variante de progression du protocole.",A_generer
+6.4,Fig_6.4_Glissement_lateral_technique.png,Ch6_Protocole_reeducation,Glissement latéral cervical technique,"#Ch6 #Protocole #GlissementLateral #Therapeute","Traitement commun aux deux groupes.",A_generer
+6.5,Fig_6.5_Progression_5_semaines.png,Ch6_Protocole_reeducation,Progression sur 5 semaines,"#Ch6 #Protocole #Progression #S1S10 #5Semaines","10 séances à raison de 2 par semaine ; progression selon irritabilité.",A_generer
+7.1,Fig_7.1_CONSORT_flow.png,Ch7_Resultats,Diagramme CONSORT,"#Ch7 #Resultats #CONSORT #Flowchart #MODELE","Modèle à remplir avec le recrutement réel.",Modele_donnees_reelles_requises
+7.2,Fig_7.2_Evolution_EVA.png,Ch7_Resultats,Évolution de l EVA,"#Ch7 #Resultats #EVA #T0T1T2 #MODELE","Graphique à générer à partir des données réelles. Aucune donnée inventée.",Modele_donnees_reelles_requises
+7.3,Fig_7.3_Evolution_NDI.png,Ch7_Resultats,Évolution du NDI,"#Ch7 #Resultats #NDI #MODELE","Graphique à générer à partir des données réelles.",Modele_donnees_reelles_requises
+7.4,Fig_7.4_AMC_ULNT.png,Ch7_Resultats,Amplitude cervicale et ULNT,"#Ch7 #Resultats #ROM #ULNT #MODELE","Graphique à générer à partir des données réelles.",Modele_donnees_reelles_requises
+8.1,Fig_8.1_Comparaison_preuves.png,Ch8_Discussion,Comparaison des preuves,"#Ch8 #Discussion #Evidence #ButlerShacklock #Conventionnel","Compare les résultats de l étude aux revues systématiques.",A_generer
+8.2,Fig_8.2_Synthese_certitude_GRADE.png,Ch8_Discussion,Synthèse des preuves et certitude,"#Ch8 #Discussion #GRADE #Certitude #Revue","Cadre l interprétation prudente des bénéfices surtout court terme.",A_generer
+8.3,Fig_8.3_Mecanisme_propose.png,Ch8_Discussion,Mécanisme proposé,"#Ch8 #Discussion #Mecanisme #ExcursionNeurale #Fonction","Relie les résultats au cadre conceptuel Butler et Shacklock.",A_generer
+9.1,Fig_9.1_Graphical_abstract.png,Ch9_Conclusion,Résumé graphique,"#Ch9 #Conclusion #GraphicalAbstract","Synthèse visuelle de la question de recherche.",A_generer
+9.2,Fig_9.2_Algorithme_pratique.png,Ch9_Conclusion,Algorithme de pratique clinique,"#Ch9 #Conclusion #Algorithme #PratiqueClinique","Recommandation finale pour la pratique kinésithérapique.",A_generer
+A.1,Fig_A.1_Fiche_evaluation_vierge.png,Annexes,Fiche d évaluation vierge,"#Annexes #FicheEvaluation #Vierge #T0T1T2","Correspond à 04_Annexes/Fiches_evaluation/00_Fiche_evaluation.md.",A_generer
+A.2,Fig_A.2_Tableau_10_seances.png,Annexes,Tableau des 10 séances,"#Annexes #Protocole #10Seances #Illustrations","Annexe récapitulative du protocole du Ch6.",A_generer
+A.3,Fig_A.3_CONSORT_checklist.png,Annexes,Checklist CONSORT,"#Annexes #CONSORT #Checklist","Annexe méthodologique pour la soumission.",A_generer
